@@ -1,14 +1,14 @@
-# MSCS 634 - Lab 1: Data Visualization, Data Preprocessing, and Statistical Analysis
+# Lab 1: Data Visualization, Data Preprocessing, and Statistical Analysis
 
 ## Purpose
 
-This lab applies core data science techniques - visualization, preprocessing, and statistical analysis - to a synthetic **Superstore Sales** dataset (1,000 orders, 2020–2023) using Python, Pandas, Matplotlib/Seaborn, and scikit-learn inside a Jupyter Notebook.
+This lab applies core data science techniques - visualization, preprocessing, and statistical analysis - to a synthetic **Superstore Sales** dataset (1,000 orders, 2020 - 2023) using Python, Pandas, Matplotlib/Seaborn, and scikit-learn inside a Jupyter Notebook.
 
 ---
 
 ## Dataset
 
-`superstore_sales.csv` — 1,000 rows × 10 columns:
+`superstore_sales.csv` - 1,000 rows × 10 columns:
 
 | Column | Type | Description |
 | --- | --- | --- |
