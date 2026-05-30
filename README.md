@@ -11,7 +11,7 @@ This lab applies core data science techniques - visualization, preprocessing, an
 `superstore_sales.csv` — 1,000 rows × 10 columns:
 
 | Column | Type | Description |
-|---|---|---|
+| --- | --- | --- |
 | Order Date | datetime | Date of order |
 | Region | categorical | East / West / Central / South |
 | Segment | categorical | Consumer / Corporate / Home Office |
