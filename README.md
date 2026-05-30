@@ -1,5 +1,7 @@
 # Lab 1: Data Visualization, Data Preprocessing, and Statistical Analysis
 
+> ⚠️ **Note:** GitHub is currently experiencing a backend timeout rendering the preview for `.ipynb` files. The complete notebook file is fully intact in this repository and can be downloaded directly, or can be viewed online by pasting this repository's URL into [nbviewer.org](https://nbviewer.org/).
+
 ## Purpose
 
 This lab applies core data science techniques - visualization, preprocessing, and statistical analysis - to a synthetic **Superstore Sales** dataset (1,000 orders, 2020 - 2023) using Python, Pandas, Matplotlib/Seaborn, and scikit-learn inside a Jupyter Notebook.
