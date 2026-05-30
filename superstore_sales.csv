@@ -1,0 +1,1001 @@
+Order Date,Region,Segment,Ship Mode,Category,Sub-Category,Sales,Quantity,Discount,Profit
+2020-01-01 00:00:00.000000,East,Home Office,First Class,Office Supplies,Pens,4528.510679052442,10,0.2,24.9
+2020-01-02 11:04:30.270270,South,Corporate,Second Class,Technology,Accessories,350.92,7,0.4,-6.22
+2020-01-03 22:09:00.540540,West,Corporate,First Class,Office Supplies,Pens,523.6,12,0.3,36.74
+2020-01-05 09:13:30.810810,South,Corporate,Standard Class,Office Supplies,Pens,152.14,10,0.1,33.94
+2020-01-06 20:18:01.081081,West,Consumer,Standard Class,Technology,Phones,21.16,5,0.4,1.45
+2020-01-08 07:22:31.351351,South,Corporate,Second Class,Technology,Accessories,,8,0.1,4.55
+2020-01-09 18:27:01.621621,West,Consumer,Second Class,Office Supplies,Binders,15.27,9,0.3,0.48
+2020-01-11 05:31:31.891891,Central,Consumer,Second Class,Furniture,Tables,274.8,11,0.2,50.02
+2020-01-12 16:36:02.162162,South,Corporate,Same Day,Office Supplies,Pens,110.98,14,0.1,31.83
+2020-01-14 03:40:32.432432,West,Corporate,Same Day,Office Supplies,Pens,205.48,7,0.0,65.11
+2020-01-15 14:45:02.702702,West,Home Office,Standard Class,Office Supplies,Binders,179.95,14,0.0,29.05
+2020-01-17 01:49:32.972972,Central,Corporate,Same Day,Office Supplies,Binders,31.26,13,0.4,-4.11
+2020-01-18 12:54:03.243243,Central,Home Office,Same Day,Technology,Phones,139.07,7,0.3,2.34
+2020-01-19 23:58:33.513513,Central,Corporate,First Class,Office Supplies,Binders,72.3,1,0.4,2.35
+2020-01-21 11:03:03.783783,South,Corporate,Same Day,Furniture,Tables,145.49,4,0.4,
+2020-01-22 22:07:34.054054,South,Corporate,First Class,Technology,Accessories,66.91,2,0.5,-7.03
+2020-01-24 09:12:04.324324,Central,Corporate,Second Class,Furniture,Tables,468.85,2,0.4,28.82
+2020-01-25 20:16:34.594594,East,Home Office,First Class,Furniture,Chairs,57.85,2,0.5,-8.19
+2020-01-27 07:21:04.864864,East,Home Office,First Class,Furniture,Tables,819.65,4,0.0,252.4
+2020-01-28 18:25:35.135135,West,Corporate,Second Class,Furniture,Bookcases,144.42,14,0.0,24.85
+2020-01-30 05:30:05.405405,East,Corporate,Second Class,Technology,Accessories,478.1,1,0.4,-43.76
+2020-01-31 16:34:35.675675,West,Home Office,Standard Class,Technology,Computers,257.73,4,0.0,47.99
+2020-02-02 03:39:05.945945,South,Consumer,Standard Class,Furniture,Bookcases,342.34,2,0.3,33.8
+2020-02-03 14:43:36.216216,South,Consumer,Standard Class,Furniture,Chairs,374.96,5,0.5,-79.57
+2020-02-05 01:48:06.486486,East,Consumer,Standard Class,Technology,Phones,185.72,3,0.5,-35.49
+2020-02-06 12:52:36.756756,South,Home Office,First Class,Technology,Computers,205.93,12,0.4,19.65
+2020-02-07 23:57:07.027027,Central,Home Office,First Class,Technology,Computers,190.38,8,0.0,19.54
+2020-02-09 11:01:37.297297,Central,Consumer,Standard Class,Office Supplies,Binders,231.72,4,0.1,37.15
+2020-02-10 22:06:07.567567,East,Consumer,Same Day,Office Supplies,Pens,17.46,1,0.5,-1.33
+2020-02-12 09:10:37.837837,East,Corporate,Standard Class,Office Supplies,Paper,135.84,1,0.4,-5.86
+2020-02-13 20:15:08.108108,West,Home Office,Same Day,Furniture,Chairs,242.97,12,0.4,0.83
+2020-02-15 07:19:38.378378,South,Home Office,Second Class,Office Supplies,Pens,237.65,10,0.3,-14.51
+2020-02-16 18:24:08.648648,West,Consumer,First Class,Furniture,Chairs,403.71,3,0.2,38.67
+2020-02-18 05:28:38.918918,West,Consumer,First Class,Furniture,Tables,276.06,9,0.2,
+2020-02-19 16:33:09.189189,Central,Home Office,Same Day,Office Supplies,Binders,1221.28,7,0.5,-62.9
+2020-02-21 03:37:39.459459,Central,Corporate,Standard Class,Furniture,Tables,93.47,2,0.3,-8.19
+2020-02-22 14:42:09.729729,Central,Consumer,First Class,Office Supplies,Paper,121.24,13,0.3,5.0
+2020-02-24 01:46:40.000000,Central,Home Office,Same Day,Office Supplies,Binders,131.07,9,0.3,-9.75
+2020-02-25 12:51:10.270270,West,Home Office,Second Class,Technology,Accessories,166.75,10,0.5,-27.75
+2020-02-26 23:55:40.540540,Central,Corporate,Second Class,Office Supplies,Pens,461.97,2,0.2,-2.03
+2020-02-28 11:00:10.810810,South,Corporate,First Class,Technology,Phones,77.23,3,0.3,-5.8
+2020-02-29 22:04:41.081081,Central,Consumer,Standard Class,Office Supplies,Pens,384.03,11,0.0,114.33
+2020-03-02 09:09:11.351351,Central,Consumer,Same Day,Office Supplies,Pens,4004.3859007011415,13,0.4,-14.59
+2020-03-03 20:13:41.621621,Central,Consumer,First Class,Technology,Phones,240.23,10,0.4,21.17
+2020-03-05 07:18:11.891891,East,Home Office,Second Class,Technology,Computers,260.29,14,0.1,73.14
+2020-03-06 18:22:42.162162,South,Consumer,Standard Class,Office Supplies,Binders,126.64,2,0.1,20.44
+2020-03-08 05:27:12.432432,South,Home Office,Same Day,Furniture,Tables,189.68,3,0.5,-39.28
+2020-03-09 16:31:42.702702,West,Consumer,First Class,Technology,Phones,143.2,6,0.5,-19.71
+2020-03-11 03:36:12.972972,West,Corporate,Same Day,Furniture,Bookcases,27.91,9,0.4,1.38
+2020-03-12 14:40:43.243243,Central,Corporate,Standard Class,Furniture,Tables,153.69,9,0.0,24.62
+2020-03-14 01:45:13.513513,East,Home Office,Standard Class,Furniture,Tables,35.62,7,0.2,-1.56
+2020-03-15 12:49:43.783783,West,Corporate,Second Class,Technology,Phones,139.81,12,0.2,13.57
+2020-03-16 23:54:14.054054,West,Home Office,Standard Class,Furniture,Tables,234.69,3,0.5,0.83
+2020-03-18 10:58:44.324324,Central,Home Office,First Class,Technology,Phones,226.53,4,0.0,
+2020-03-19 22:03:14.594594,Central,Corporate,Same Day,Furniture,Bookcases,281.64,6,0.5,-55.61
+2020-03-21 09:07:44.864864,West,Home Office,Standard Class,Office Supplies,Paper,35.03,11,0.2,4.62
+2020-03-22 20:12:15.135135,West,Corporate,Standard Class,Office Supplies,Paper,273.98,5,0.5,-50.37
+2020-03-24 07:16:45.405405,South,Consumer,First Class,Technology,Phones,103.55,2,0.3,-6.68
+2020-03-25 18:21:15.675675,East,Consumer,Same Day,Office Supplies,Paper,137.31,13,0.5,1.68
+2020-03-27 05:25:45.945945,South,Corporate,Same Day,Office Supplies,Pens,,6,0.4,-57.31
+2020-03-28 16:30:16.216216,West,Corporate,Second Class,Furniture,Bookcases,12.27,3,0.5,
+2020-03-30 03:34:46.486486,South,Corporate,Second Class,Technology,Computers,231.93,14,0.4,-44.02
+2020-03-31 14:39:16.756756,South,Corporate,Same Day,Furniture,Bookcases,238.27,8,0.0,
+2020-04-02 01:43:47.027027,West,Consumer,First Class,Furniture,Bookcases,136.32,2,0.2,22.87
+2020-04-03 12:48:17.297297,Central,Home Office,First Class,Furniture,Tables,77.63,1,0.1,13.83
+2020-04-04 23:52:47.567567,West,Home Office,Second Class,Furniture,Bookcases,76.86,9,0.1,16.53
+2020-04-06 10:57:17.837837,Central,Consumer,Standard Class,Furniture,Chairs,,14,0.2,-13.36
+2020-04-07 22:01:48.108108,West,Home Office,First Class,Furniture,Chairs,155.86,12,0.1,19.87
+2020-04-09 09:06:18.378378,West,Consumer,Standard Class,Furniture,Tables,110.45,3,0.5,-15.97
+2020-04-10 20:10:48.648648,West,Home Office,First Class,Technology,Computers,158.9,11,0.0,12.42
+2020-04-12 07:15:18.918918,East,Corporate,Same Day,Office Supplies,Binders,286.7,1,0.0,56.15
+2020-04-13 18:19:49.189189,Central,Corporate,Second Class,Furniture,Chairs,49.38,7,0.2,10.18
+2020-04-15 05:24:19.459459,East,Corporate,Standard Class,Furniture,Bookcases,159.2,13,0.1,0.32
+2020-04-16 16:28:49.729729,West,Consumer,Standard Class,Furniture,Chairs,231.61,10,0.5,-37.65
+2020-04-18 03:33:20.000000,South,Consumer,Same Day,Furniture,Tables,751.95,5,0.0,84.42
+2020-04-19 14:37:50.270270,East,Home Office,First Class,Furniture,Bookcases,82.76,5,0.0,10.05
+2020-04-21 01:42:20.540540,Central,Home Office,Standard Class,Furniture,Bookcases,121.28,14,0.3,17.29
+2020-04-22 12:46:50.810810,West,Home Office,First Class,Office Supplies,Paper,129.25,1,0.3,1.35
+2020-04-23 23:51:21.081081,East,Consumer,Same Day,Office Supplies,Binders,242.56,9,0.0,46.06
+2020-04-25 10:55:51.351351,South,Home Office,Second Class,Furniture,Chairs,120.3,7,0.2,19.03
+2020-04-26 22:00:21.621621,East,Corporate,Standard Class,Office Supplies,Pens,200.63,8,0.4,-28.82
+2020-04-28 09:04:51.891891,Central,Home Office,First Class,Technology,Phones,390.57,9,0.4,-17.11
+2020-04-29 20:09:22.162162,East,Corporate,Standard Class,Furniture,Chairs,315.52,6,0.5,-38.18
+2020-05-01 07:13:52.432432,South,Consumer,First Class,Technology,Computers,157.81,12,0.0,36.15
+2020-05-02 18:18:22.702702,South,Corporate,First Class,Technology,Computers,509.17,5,0.0,178.14
+2020-05-04 05:22:52.972972,Central,Corporate,First Class,Furniture,Bookcases,214.19,6,0.0,
+2020-05-05 16:27:23.243243,South,Corporate,Same Day,Office Supplies,Paper,204.08,11,0.2,10.07
+2020-05-07 03:31:53.513513,West,Consumer,Second Class,Technology,Phones,18.7,2,0.3,2.21
+2020-05-08 14:36:23.783783,South,Consumer,Standard Class,Furniture,Chairs,1089.87,4,0.0,
+2020-05-10 01:40:54.054054,West,Consumer,Second Class,Technology,Accessories,42.8,3,0.0,2.53
+2020-05-11 12:45:24.324324,East,Consumer,First Class,Technology,Accessories,75.71,13,0.1,3.89
+2020-05-12 23:49:54.594594,West,Home Office,First Class,Technology,Computers,23.27,7,0.2,0.75
+2020-05-14 10:54:24.864864,West,Consumer,Second Class,Technology,Computers,265.41,9,0.5,-25.7
+2020-05-15 21:58:55.135135,East,Corporate,Second Class,Office Supplies,Binders,73.63,5,0.0,17.27
+2020-05-17 09:03:25.405405,South,Consumer,Standard Class,Technology,Phones,59.62,6,0.1,15.69
+2020-05-18 20:07:55.675675,West,Home Office,First Class,Technology,Phones,33.18,10,0.4,-1.23
+2020-05-20 07:12:25.945945,South,Home Office,Second Class,Technology,Computers,37.26,14,0.5,-3.71
+2020-05-21 18:16:56.216216,East,Home Office,Same Day,Office Supplies,Paper,229.67,12,0.0,14.95
+2020-05-23 05:21:26.486486,Central,Corporate,First Class,Technology,Computers,301.35,12,0.0,18.22
+2020-05-24 16:25:56.756756,South,Consumer,First Class,Technology,Accessories,136.62,2,0.1,21.22
+2020-05-26 03:30:27.027027,South,Consumer,Standard Class,Office Supplies,Binders,173.43,3,0.2,10.66
+2020-05-27 14:34:57.297297,Central,Consumer,Same Day,Office Supplies,Pens,299.56,3,0.0,90.39
+2020-05-29 01:39:27.567567,Central,Corporate,Standard Class,Office Supplies,Paper,14.38,12,0.4,-2.04
+2020-05-30 12:43:57.837837,East,Corporate,Same Day,Technology,Computers,107.57,12,0.0,6.18
+2020-05-31 23:48:28.108108,South,Home Office,Standard Class,Office Supplies,Paper,913.89,9,0.4,-50.53
+2020-06-02 10:52:58.378378,South,Home Office,Same Day,Office Supplies,Pens,226.94,7,0.5,-40.57
+2020-06-03 21:57:28.648648,East,Consumer,Same Day,Technology,Accessories,83.33,8,0.5,-19.59
+2020-06-05 09:01:58.918918,South,Corporate,Same Day,Office Supplies,Pens,194.39,11,0.3,16.99
+2020-06-06 20:06:29.189189,West,Corporate,Second Class,Technology,Phones,114.89,10,0.3,-11.09
+2020-06-08 07:10:59.459459,West,Consumer,First Class,Furniture,Chairs,199.95,11,0.4,-1.5
+2020-06-09 18:15:29.729729,West,Consumer,Same Day,Office Supplies,Paper,43.59,9,0.2,0.62
+2020-06-11 05:20:00.000000,South,Home Office,Second Class,Furniture,Chairs,45.6,6,0.0,4.65
+2020-06-12 16:24:30.270270,West,Home Office,Second Class,Technology,Accessories,48.74,4,0.0,
+2020-06-14 03:29:00.540540,West,Home Office,Standard Class,Office Supplies,Pens,712.6,12,0.3,78.7
+2020-06-15 14:33:30.810810,East,Consumer,First Class,Technology,Computers,340.03,1,0.4,-24.61
+2020-06-17 01:38:01.081081,East,Consumer,First Class,Furniture,Tables,54.3,8,0.0,14.95
+2020-06-18 12:42:31.351351,Central,Home Office,Standard Class,Technology,Phones,62.17,7,0.0,5.45
+2020-06-19 23:47:01.621621,Central,Home Office,First Class,Office Supplies,Pens,338.1,2,0.2,54.72
+2020-06-21 10:51:31.891891,Central,Corporate,Standard Class,Office Supplies,Pens,52.45,8,0.1,3.2
+2020-06-22 21:56:02.162162,Central,Corporate,Second Class,Furniture,Bookcases,76.83,12,0.3,5.63
+2020-06-24 09:00:32.432432,East,Home Office,Second Class,Technology,Computers,836.56,5,0.3,
+2020-06-25 20:05:02.702702,East,Home Office,Same Day,Office Supplies,Binders,83.7,7,0.1,22.49
+2020-06-27 07:09:32.972972,East,Corporate,Standard Class,Furniture,Bookcases,280.91,4,0.0,46.69
+2020-06-28 18:14:03.243243,West,Home Office,Second Class,Office Supplies,Pens,971.46,5,0.2,-48.72
+2020-06-30 05:18:33.513513,West,Corporate,Second Class,Office Supplies,Pens,127.22,8,0.2,-8.17
+2020-07-01 16:23:03.783783,Central,Corporate,Standard Class,Technology,Computers,14.42,1,0.3,1.7
+2020-07-03 03:27:34.054054,West,Corporate,Second Class,Office Supplies,Pens,79.98,1,0.2,6.99
+2020-07-04 14:32:04.324324,South,Consumer,First Class,Technology,Accessories,454.28,4,0.5,-7.92
+2020-07-06 01:36:34.594594,East,Consumer,Second Class,Office Supplies,Paper,509.9,3,0.1,30.76
+2020-07-07 12:41:04.864864,Central,Home Office,Standard Class,Furniture,Chairs,375.81,13,0.0,57.7
+2020-07-08 23:45:35.135135,Central,Corporate,First Class,Office Supplies,Binders,40.01,10,0.5,-9.64
+2020-07-10 10:50:05.405405,South,Consumer,First Class,Technology,Accessories,406.81,12,0.1,113.28
+2020-07-11 21:54:35.675675,West,Home Office,Second Class,Technology,Accessories,637.33,2,0.4,6.6
+2020-07-13 08:59:05.945945,Central,Home Office,Same Day,Furniture,Chairs,239.45,12,0.3,35.91
+2020-07-14 20:03:36.216216,West,Home Office,First Class,Office Supplies,Binders,717.03,3,0.2,6.92
+2020-07-16 07:08:06.486486,West,Home Office,Standard Class,Office Supplies,Paper,448.38,11,0.4,-2.94
+2020-07-17 18:12:36.756756,South,Home Office,Same Day,Furniture,Chairs,284.88,11,0.2,38.05
+2020-07-19 05:17:07.027027,Central,Corporate,Same Day,Office Supplies,Paper,225.21,14,0.5,-34.85
+2020-07-20 16:21:37.297297,West,Home Office,First Class,Office Supplies,Paper,117.15,11,0.0,
+2020-07-22 03:26:07.567567,West,Corporate,Second Class,Technology,Accessories,53.38,1,0.0,17.84
+2020-07-23 14:30:37.837837,South,Consumer,Same Day,Office Supplies,Pens,242.19,1,0.0,76.4
+2020-07-25 01:35:08.108108,South,Home Office,Second Class,Office Supplies,Paper,105.72,6,0.2,16.04
+2020-07-26 12:39:38.378378,West,Consumer,First Class,Furniture,Tables,513.3,5,0.4,-54.8
+2020-07-27 23:44:08.648648,South,Corporate,Standard Class,Furniture,Tables,1262.79,8,0.0,169.83
+2020-07-29 10:48:38.918918,West,Corporate,Same Day,Technology,Computers,359.01,2,0.4,35.54
+2020-07-30 21:53:09.189189,Central,Consumer,Standard Class,Office Supplies,Binders,33.71,4,0.2,-2.26
+2020-08-01 08:57:39.459459,East,Home Office,Second Class,Office Supplies,Paper,95.16,8,0.5,-3.35
+2020-08-02 20:02:09.729729,South,Home Office,Second Class,Office Supplies,Pens,38.88,12,0.4,
+2020-08-04 07:06:40.000000,East,Consumer,Standard Class,Technology,Computers,272.82,6,0.5,-17.24
+2020-08-05 18:11:10.270270,West,Consumer,First Class,Technology,Phones,372.25,1,0.2,84.51
+2020-08-07 05:15:40.540540,West,Consumer,First Class,Furniture,Tables,659.83,4,0.2,15.55
+2020-08-08 16:20:10.810810,West,Home Office,Same Day,Technology,Computers,154.14,1,0.3,-4.32
+2020-08-10 03:24:41.081081,East,Home Office,Same Day,Office Supplies,Paper,589.11,13,0.2,-27.29
+2020-08-11 14:29:11.351351,West,Home Office,First Class,Office Supplies,Pens,535.71,2,0.2,33.66
+2020-08-13 01:33:41.621621,South,Consumer,First Class,Technology,Accessories,105.39,5,0.1,7.2
+2020-08-14 12:38:11.891891,Central,Home Office,Standard Class,Office Supplies,Paper,,14,0.0,79.25
+2020-08-15 23:42:42.162162,Central,Corporate,Second Class,Office Supplies,Pens,127.77,8,0.3,15.38
+2020-08-17 10:47:12.432432,South,Consumer,Second Class,Technology,Phones,98.05,8,0.3,14.77
+2020-08-18 21:51:42.702702,Central,Home Office,Same Day,Technology,Phones,,11,0.3,-20.19
+2020-08-20 08:56:12.972972,East,Consumer,First Class,Office Supplies,Paper,109.52,3,0.1,11.14
+2020-08-21 20:00:43.243243,West,Corporate,Standard Class,Office Supplies,Pens,258.7,11,0.5,7.4
+2020-08-23 07:05:13.513513,West,Corporate,Same Day,Office Supplies,Paper,245.29,13,0.2,-12.62
+2020-08-24 18:09:43.783783,West,Consumer,Standard Class,Furniture,Tables,217.21,4,0.0,16.88
+2020-08-26 05:14:14.054054,East,Consumer,First Class,Furniture,Bookcases,129.68,10,0.4,-18.31
+2020-08-27 16:18:44.324324,East,Corporate,First Class,Furniture,Bookcases,208.79,11,0.5,-14.92
+2020-08-29 03:23:14.594594,East,Consumer,First Class,Technology,Accessories,236.89,14,0.2,-5.89
+2020-08-30 14:27:44.864864,South,Corporate,Second Class,Furniture,Bookcases,207.24,6,0.1,58.11
+2020-09-01 01:32:15.135135,East,Corporate,First Class,Technology,Computers,5113.512847635864,11,0.2,10.05
+2020-09-02 12:36:45.405405,Central,Home Office,Same Day,Technology,Accessories,13.69,11,0.2,1.1
+2020-09-03 23:41:15.675675,South,Consumer,Second Class,Furniture,Bookcases,231.11,10,0.1,14.79
+2020-09-05 10:45:45.945945,South,Consumer,Standard Class,Furniture,Chairs,56.11,3,0.3,0.63
+2020-09-06 21:50:16.216216,South,Home Office,Same Day,Furniture,Bookcases,267.21,2,0.3,18.32
+2020-09-08 08:54:46.486486,East,Corporate,Same Day,Office Supplies,Binders,366.1,6,0.0,100.81
+2020-09-09 19:59:16.756756,South,Consumer,Standard Class,Furniture,Tables,183.51,11,0.0,50.68
+2020-09-11 07:03:47.027027,East,Home Office,Second Class,Office Supplies,Binders,205.42,13,0.3,8.91
+2020-09-12 18:08:17.297297,East,Home Office,Same Day,Technology,Computers,766.44,5,0.5,16.33
+2020-09-14 05:12:47.567567,South,Consumer,Same Day,Office Supplies,Pens,479.6,14,0.4,26.48
+2020-09-15 16:17:17.837837,West,Home Office,Same Day,Furniture,Bookcases,624.04,10,0.2,98.05
+2020-09-17 03:21:48.108108,West,Corporate,Second Class,Technology,Computers,430.19,5,0.4,-74.56
+2020-09-18 14:26:18.378378,South,Home Office,Second Class,Technology,Computers,38.83,10,0.2,-2.64
+2020-09-20 01:30:48.648648,West,Corporate,Second Class,Technology,Accessories,50.33,13,0.3,-3.34
+2020-09-21 12:35:18.918918,Central,Corporate,Same Day,Office Supplies,Binders,196.97,5,0.0,49.06
+2020-09-22 23:39:49.189189,Central,Consumer,First Class,Furniture,Chairs,80.61,10,0.5,-10.21
+2020-09-24 10:44:19.459459,East,Home Office,Standard Class,Technology,Computers,171.9,12,0.0,29.35
+2020-09-25 21:48:49.729729,West,Corporate,First Class,Technology,Computers,135.37,5,0.4,10.2
+2020-09-27 08:53:20.000000,Central,Corporate,Second Class,Technology,Phones,209.3,3,0.0,66.7
+2020-09-28 19:57:50.270270,South,Home Office,Same Day,Office Supplies,Paper,353.47,7,0.3,50.46
+2020-09-30 07:02:20.540540,West,Corporate,Same Day,Office Supplies,Pens,324.25,6,0.5,-50.53
+2020-10-01 18:06:50.810810,Central,Home Office,First Class,Furniture,Bookcases,194.14,4,0.4,3.36
+2020-10-03 05:11:21.081081,Central,Consumer,First Class,Office Supplies,Paper,442.05,2,0.5,-74.49
+2020-10-04 16:15:51.351351,South,Corporate,Standard Class,Technology,Phones,150.91,12,0.2,-1.93
+2020-10-06 03:20:21.621621,East,Corporate,Same Day,Furniture,Bookcases,577.56,9,0.0,
+2020-10-07 14:24:51.891891,South,Home Office,First Class,Technology,Computers,28.49,1,0.5,-4.2
+2020-10-09 01:29:22.162162,East,Home Office,Standard Class,Technology,Phones,783.39,13,0.1,93.21
+2020-10-10 12:33:52.432432,Central,Home Office,Second Class,Office Supplies,Pens,275.83,13,0.0,82.55
+2020-10-11 23:38:22.702702,East,Home Office,First Class,Furniture,Tables,129.54,11,0.2,-4.41
+2020-10-13 10:42:52.972972,Central,Corporate,Second Class,Office Supplies,Paper,64.9,14,0.5,-1.92
+2020-10-14 21:47:23.243243,Central,Consumer,Standard Class,Office Supplies,Binders,173.09,4,0.4,-5.29
+2020-10-16 08:51:53.513513,West,Consumer,Second Class,Furniture,Bookcases,64.09,1,0.2,1.05
+2020-10-17 19:56:23.783783,East,Consumer,Same Day,Technology,Phones,55.48,13,0.1,7.65
+2020-10-19 07:00:54.054054,East,Consumer,Same Day,Technology,Computers,250.16,6,0.5,-40.03
+2020-10-20 18:05:24.324324,East,Home Office,Second Class,Furniture,Chairs,195.1,4,0.3,9.53
+2020-10-22 05:09:54.594594,South,Corporate,Same Day,Technology,Computers,287.24,5,0.0,51.75
+2020-10-23 16:14:24.864864,West,Corporate,Standard Class,Furniture,Bookcases,673.41,5,0.4,-94.73
+2020-10-25 03:18:55.135135,West,Corporate,Same Day,Furniture,Bookcases,199.96,9,0.3,-19.0
+2020-10-26 14:23:25.405405,West,Home Office,Second Class,Office Supplies,Paper,227.43,1,0.5,-19.56
+2020-10-28 01:27:55.675675,South,Corporate,Second Class,Furniture,Tables,33.48,13,0.5,0.69
+2020-10-29 12:32:25.945945,East,Home Office,Second Class,Office Supplies,Paper,326.14,2,0.2,10.82
+2020-10-30 23:36:56.216216,East,Corporate,First Class,Technology,Phones,137.67,13,0.5,-4.14
+2020-11-01 10:41:26.486486,East,Consumer,Second Class,Technology,Computers,950.1,6,0.4,7.22
+2020-11-02 21:45:56.756756,West,Home Office,Standard Class,Technology,Computers,443.15,5,0.3,66.24
+2020-11-04 08:50:27.027027,West,Corporate,Same Day,Technology,Computers,194.79,11,0.4,10.97
+2020-11-05 19:54:57.297297,Central,Consumer,Same Day,Office Supplies,Pens,42.88,7,0.1,
+2020-11-07 06:59:27.567567,South,Consumer,First Class,Technology,Phones,500.49,3,0.1,93.65
+2020-11-08 18:03:57.837837,South,Consumer,First Class,Furniture,Chairs,412.09,3,0.0,131.67
+2020-11-10 05:08:28.108108,West,Home Office,Standard Class,Furniture,Bookcases,61.01,10,0.0,10.36
+2020-11-11 16:12:58.378378,Central,Home Office,Second Class,Furniture,Tables,97.49,2,0.1,8.58
+2020-11-13 03:17:28.648648,East,Corporate,First Class,Office Supplies,Pens,404.25,13,0.5,-99.75
+2020-11-14 14:21:58.918918,West,Consumer,Same Day,Technology,Accessories,61.21,3,0.4,3.55
+2020-11-16 01:26:29.189189,South,Corporate,First Class,Technology,Accessories,634.51,10,0.1,146.12
+2020-11-17 12:30:59.459459,South,Corporate,First Class,Technology,Phones,,1,0.0,12.05
+2020-11-18 23:35:29.729729,South,Consumer,Second Class,Office Supplies,Pens,32.77,5,0.1,
+2020-11-20 10:40:00.000000,East,Corporate,First Class,Furniture,Chairs,432.86,14,0.5,-47.96
+2020-11-21 21:44:30.270270,South,Home Office,Standard Class,Furniture,Chairs,126.91,12,0.1,3.25
+2020-11-23 08:49:00.540540,East,Corporate,Same Day,Technology,Phones,196.9,5,0.4,20.51
+2020-11-24 19:53:30.810810,East,Consumer,Second Class,Furniture,Tables,39.78,12,0.3,-2.61
+2020-11-26 06:58:01.081081,East,Home Office,Same Day,Furniture,Chairs,10.65,11,0.5,-2.45
+2020-11-27 18:02:31.351351,West,Home Office,Standard Class,Office Supplies,Paper,264.02,7,0.0,60.32
+2020-11-29 05:07:01.621621,East,Corporate,Standard Class,Office Supplies,Binders,190.99,4,0.4,6.05
+2020-11-30 16:11:31.891891,Central,Corporate,First Class,Office Supplies,Paper,235.07,3,0.1,-0.06
+2020-12-02 03:16:02.162162,South,Home Office,First Class,Office Supplies,Pens,404.66,1,0.1,75.92
+2020-12-03 14:20:32.432432,West,Corporate,First Class,Technology,Accessories,270.04,12,0.3,8.02
+2020-12-05 01:25:02.702702,South,Consumer,Same Day,Office Supplies,Paper,58.02,8,0.0,4.7
+2020-12-06 12:29:32.972972,East,Corporate,Standard Class,Furniture,Tables,121.87,13,0.0,12.4
+2020-12-07 23:34:03.243243,West,Corporate,Second Class,Technology,Accessories,600.83,3,0.2,60.32
+2020-12-09 10:38:33.513513,Central,Home Office,First Class,Furniture,Tables,377.36,13,0.0,52.42
+2020-12-10 21:43:03.783783,East,Corporate,Same Day,Furniture,Tables,213.34,2,0.3,32.32
+2020-12-12 08:47:34.054054,South,Corporate,First Class,Furniture,Bookcases,83.81,11,0.2,14.72
+2020-12-13 19:52:04.324324,Central,Corporate,Standard Class,Office Supplies,Binders,99.91,4,0.2,22.49
+2020-12-15 06:56:34.594594,East,Consumer,Second Class,Office Supplies,Pens,339.15,3,0.1,23.03
+2020-12-16 18:01:04.864864,Central,Corporate,Standard Class,Technology,Computers,486.24,13,0.1,136.59
+2020-12-18 05:05:35.135135,East,Consumer,Same Day,Technology,Accessories,288.25,1,0.0,51.7
+2020-12-19 16:10:05.405405,West,Consumer,First Class,Office Supplies,Paper,424.57,3,0.2,14.54
+2020-12-21 03:14:35.675675,East,Consumer,Standard Class,Furniture,Bookcases,373.81,12,0.1,1.91
+2020-12-22 14:19:05.945945,West,Consumer,Same Day,Technology,Accessories,50.54,2,0.3,-5.77
+2020-12-24 01:23:36.216216,East,Home Office,First Class,Office Supplies,Pens,147.89,8,0.1,29.22
+2020-12-25 12:28:06.486486,East,Consumer,Second Class,Office Supplies,Pens,51.51,6,0.5,-5.8
+2020-12-26 23:32:36.756756,South,Corporate,Standard Class,Office Supplies,Binders,77.05,9,0.5,-14.03
+2020-12-28 10:37:07.027027,Central,Consumer,First Class,Furniture,Chairs,518.64,8,0.1,90.34
+2020-12-29 21:41:37.297297,Central,Corporate,First Class,Office Supplies,Pens,170.09,10,0.2,1.0
+2020-12-31 08:46:07.567567,Central,Consumer,First Class,Office Supplies,Binders,201.62,3,0.2,20.83
+2021-01-01 19:50:37.837837,East,Home Office,First Class,Office Supplies,Paper,59.14,5,0.4,-4.86
+2021-01-03 06:55:08.108108,East,Consumer,Standard Class,Office Supplies,Paper,103.59,7,0.5,-0.3
+2021-01-04 17:59:38.378378,East,Consumer,First Class,Technology,Phones,75.42,5,0.3,8.76
+2021-01-06 05:04:08.648648,West,Home Office,Same Day,Technology,Phones,67.73,8,0.2,4.96
+2021-01-07 16:08:38.918918,West,Consumer,Standard Class,Office Supplies,Pens,264.0,12,0.0,40.98
+2021-01-09 03:13:09.189189,South,Corporate,First Class,Furniture,Bookcases,84.23,5,0.5,-11.9
+2021-01-10 14:17:39.459459,East,Consumer,Standard Class,Technology,Computers,,1,0.3,29.04
+2021-01-12 01:22:09.729729,Central,Consumer,Same Day,Office Supplies,Binders,25.06,5,0.3,-0.79
+2021-01-13 12:26:40.000000,Central,Consumer,Same Day,Technology,Computers,48.22,4,0.2,-0.35
+2021-01-14 23:31:10.270270,South,Home Office,Standard Class,Technology,Phones,,6,0.3,-9.44
+2021-01-16 10:35:40.540540,Central,Consumer,First Class,Furniture,Chairs,237.23,3,0.2,16.61
+2021-01-17 21:40:10.810810,South,Consumer,First Class,Office Supplies,Pens,291.63,11,0.1,39.26
+2021-01-19 08:44:41.081081,East,Corporate,Same Day,Office Supplies,Paper,156.17,5,0.5,0.35
+2021-01-20 19:49:11.351351,Central,Consumer,First Class,Furniture,Chairs,157.55,2,0.4,-19.48
+2021-01-22 06:53:41.621621,East,Consumer,Same Day,Furniture,Chairs,332.31,11,0.1,34.66
+2021-01-23 17:58:11.891891,West,Consumer,First Class,Office Supplies,Binders,13.99,6,0.5,-0.1
+2021-01-25 05:02:42.162162,Central,Consumer,Same Day,Office Supplies,Binders,114.29,13,0.2,20.24
+2021-01-26 16:07:12.432432,West,Corporate,Second Class,Furniture,Bookcases,436.91,12,0.5,-58.82
+2021-01-28 03:11:42.702702,Central,Corporate,First Class,Technology,Phones,241.09,6,0.2,16.33
+2021-01-29 14:16:12.972972,East,Home Office,First Class,Technology,Phones,112.83,5,0.1,9.14
+2021-01-31 01:20:43.243243,South,Consumer,First Class,Furniture,Bookcases,599.85,6,0.0,197.81
+2021-02-01 12:25:13.513513,East,Home Office,Standard Class,Technology,Phones,380.29,11,0.0,32.55
+2021-02-02 23:29:43.783783,East,Home Office,First Class,Furniture,Chairs,86.94,7,0.5,2.62
+2021-02-04 10:34:14.054054,East,Consumer,Standard Class,Technology,Computers,269.11,12,0.0,68.67
+2021-02-05 21:38:44.324324,Central,Corporate,Standard Class,Technology,Accessories,236.43,5,0.2,21.15
+2021-02-07 08:43:14.594594,South,Corporate,Same Day,Office Supplies,Pens,138.2,1,0.3,-16.61
+2021-02-08 19:47:44.864864,West,Consumer,Standard Class,Office Supplies,Pens,124.3,8,0.2,
+2021-02-10 06:52:15.135135,East,Consumer,Standard Class,Technology,Accessories,115.23,4,0.3,-0.88
+2021-02-11 17:56:45.405405,Central,Corporate,Second Class,Technology,Computers,,9,0.1,9.59
+2021-02-13 05:01:15.675675,West,Consumer,First Class,Office Supplies,Binders,156.03,14,0.4,1.08
+2021-02-14 16:05:45.945945,East,Consumer,Standard Class,Office Supplies,Paper,455.74,10,0.3,
+2021-02-16 03:10:16.216216,West,Consumer,First Class,Office Supplies,Paper,286.86,12,0.0,62.72
+2021-02-17 14:14:46.486486,East,Corporate,Standard Class,Furniture,Chairs,28.12,6,0.2,4.06
+2021-02-19 01:19:16.756756,West,Home Office,Same Day,Technology,Phones,265.53,1,0.1,2.8
+2021-02-20 12:23:47.027027,West,Home Office,Second Class,Office Supplies,Binders,89.07,3,0.0,15.61
+2021-02-21 23:28:17.297297,South,Consumer,Standard Class,Technology,Accessories,234.62,3,0.1,
+2021-02-23 10:32:47.567567,South,Corporate,First Class,Furniture,Tables,294.96,10,0.4,-1.82
+2021-02-24 21:37:17.837837,East,Consumer,Same Day,Furniture,Chairs,75.61,12,0.2,15.99
+2021-02-26 08:41:48.108108,Central,Corporate,First Class,Office Supplies,Binders,162.6,12,0.5,-8.37
+2021-02-27 19:46:18.378378,South,Consumer,Same Day,Furniture,Bookcases,62.78,4,0.2,-2.95
+2021-03-01 06:50:48.648648,West,Corporate,Second Class,Technology,Accessories,23.44,6,0.4,-1.96
+2021-03-02 17:55:18.918918,South,Corporate,Same Day,Office Supplies,Binders,128.9,7,0.2,12.27
+2021-03-04 04:59:49.189189,South,Home Office,First Class,Technology,Computers,122.72,10,0.5,
+2021-03-05 16:04:19.459459,East,Consumer,First Class,Technology,Computers,1359.84,4,0.3,163.31
+2021-03-07 03:08:49.729729,South,Home Office,Standard Class,Furniture,Chairs,157.81,6,0.1,36.99
+2021-03-08 14:13:20.000000,South,Home Office,Same Day,Furniture,Tables,111.45,11,0.5,-7.41
+2021-03-10 01:17:50.270270,West,Corporate,First Class,Furniture,Tables,227.16,1,0.0,36.81
+2021-03-11 12:22:20.540540,South,Consumer,Standard Class,Furniture,Tables,33.24,14,0.4,-3.77
+2021-03-12 23:26:50.810810,West,Corporate,Second Class,Furniture,Bookcases,825.35,8,0.3,-81.08
+2021-03-14 10:31:21.081081,South,Corporate,First Class,Office Supplies,Pens,261.94,7,0.0,40.99
+2021-03-15 21:35:51.351351,South,Corporate,Standard Class,Technology,Phones,361.46,11,0.0,62.88
+2021-03-17 08:40:21.621621,Central,Consumer,First Class,Technology,Phones,56.73,11,0.4,0.72
+2021-03-18 19:44:51.891891,South,Consumer,Same Day,Technology,Accessories,141.69,9,0.3,9.56
+2021-03-20 06:49:22.162162,West,Corporate,Standard Class,Technology,Accessories,147.34,3,0.0,10.47
+2021-03-21 17:53:52.432432,West,Consumer,Same Day,Furniture,Bookcases,441.22,2,0.0,74.38
+2021-03-23 04:58:22.702702,East,Corporate,Second Class,Technology,Computers,10.31,1,0.3,-0.78
+2021-03-24 16:02:52.972972,East,Consumer,Same Day,Office Supplies,Binders,99.47,3,0.2,-2.28
+2021-03-26 03:07:23.243243,Central,Consumer,Standard Class,Office Supplies,Pens,1003.96,5,0.0,299.37
+2021-03-27 14:11:53.513513,West,Home Office,First Class,Technology,Computers,171.04,14,0.1,0.44
+2021-03-29 01:16:23.783783,West,Corporate,Standard Class,Technology,Computers,130.53,11,0.3,-0.55
+2021-03-30 12:20:54.054054,West,Home Office,Same Day,Office Supplies,Paper,41.91,2,0.0,4.21
+2021-03-31 23:25:24.324324,Central,Home Office,Same Day,Office Supplies,Pens,924.0,12,0.4,68.19
+2021-04-02 10:29:54.594594,West,Corporate,First Class,Furniture,Bookcases,5950.85386824872,3,0.5,-1.25
+2021-04-03 21:34:24.864864,East,Corporate,Second Class,Office Supplies,Binders,,4,0.1,20.44
+2021-04-05 08:38:55.135135,Central,Consumer,Standard Class,Furniture,Bookcases,375.9,7,0.5,-37.32
+2021-04-06 19:43:25.405405,East,Corporate,First Class,Furniture,Chairs,79.81,13,0.5,-2.44
+2021-04-08 06:47:55.675675,East,Home Office,First Class,Furniture,Chairs,288.35,3,0.0,97.3
+2021-04-09 17:52:25.945945,Central,Home Office,First Class,Furniture,Chairs,34.38,9,0.1,1.93
+2021-04-11 04:56:56.216216,South,Corporate,Standard Class,Furniture,Bookcases,84.28,8,0.1,21.56
+2021-04-12 16:01:26.486486,South,Home Office,Standard Class,Technology,Accessories,397.68,4,0.2,83.63
+2021-04-14 03:05:56.756756,East,Consumer,Standard Class,Office Supplies,Pens,510.04,13,0.5,12.71
+2021-04-15 14:10:27.027027,South,Home Office,Second Class,Furniture,Bookcases,244.43,1,0.1,44.15
+2021-04-17 01:14:57.297297,West,Consumer,First Class,Office Supplies,Pens,186.73,1,0.2,22.21
+2021-04-18 12:19:27.567567,Central,Home Office,Same Day,Office Supplies,Paper,53.38,1,0.3,-0.48
+2021-04-19 23:23:57.837837,East,Consumer,Same Day,Furniture,Tables,26.3,1,0.2,4.1
+2021-04-21 10:28:28.108108,West,Consumer,First Class,Technology,Phones,41.29,8,0.4,-1.26
+2021-04-22 21:32:58.378378,South,Corporate,Same Day,Furniture,Bookcases,74.48,3,0.0,18.86
+2021-04-24 08:37:28.648648,West,Consumer,Second Class,Technology,Phones,114.51,6,0.3,-0.17
+2021-04-25 19:41:58.918918,South,Corporate,Second Class,Office Supplies,Pens,129.88,3,0.3,11.62
+2021-04-27 06:46:29.189189,East,Home Office,Standard Class,Technology,Accessories,116.29,11,0.4,6.67
+2021-04-28 17:50:59.459459,West,Home Office,Standard Class,Technology,Phones,78.3,5,0.2,-2.04
+2021-04-30 04:55:29.729729,Central,Home Office,Standard Class,Technology,Accessories,188.2,13,0.0,56.44
+2021-05-01 16:00:00.000000,East,Consumer,Standard Class,Office Supplies,Binders,446.15,14,0.2,41.09
+2021-05-03 03:04:30.270270,West,Home Office,Standard Class,Office Supplies,Pens,92.02,13,0.1,22.4
+2021-05-04 14:09:00.540540,West,Home Office,Same Day,Technology,Computers,723.5,7,0.2,42.97
+2021-05-06 01:13:30.810810,South,Corporate,Same Day,Technology,Computers,526.56,2,0.3,-8.58
+2021-05-07 12:18:01.081081,East,Corporate,Standard Class,Furniture,Bookcases,54.11,6,0.0,17.56
+2021-05-08 23:22:31.351351,East,Home Office,Second Class,Technology,Phones,395.77,13,0.2,
+2021-05-10 10:27:01.621621,East,Home Office,Same Day,Furniture,Tables,223.67,6,0.0,67.83
+2021-05-11 21:31:31.891891,East,Consumer,Second Class,Technology,Phones,219.01,11,0.0,42.75
+2021-05-13 08:36:02.162162,South,Consumer,Second Class,Furniture,Tables,134.0,3,0.1,19.33
+2021-05-14 19:40:32.432432,Central,Home Office,First Class,Office Supplies,Pens,183.86,6,0.1,15.18
+2021-05-16 06:45:02.702702,East,Corporate,First Class,Technology,Accessories,136.53,10,0.3,5.72
+2021-05-17 17:49:32.972972,South,Home Office,Standard Class,Technology,Computers,203.99,10,0.4,-18.86
+2021-05-19 04:54:03.243243,Central,Consumer,Second Class,Technology,Accessories,257.18,14,0.0,15.89
+2021-05-20 15:58:33.513513,Central,Corporate,Same Day,Technology,Computers,290.45,5,0.4,-31.48
+2021-05-22 03:03:03.783783,South,Corporate,First Class,Furniture,Bookcases,200.08,12,0.3,-25.63
+2021-05-23 14:07:34.054054,East,Consumer,First Class,Technology,Phones,329.51,2,0.0,113.19
+2021-05-25 01:12:04.324324,Central,Home Office,Second Class,Office Supplies,Pens,48.08,9,0.0,16.33
+2021-05-26 12:16:34.594594,East,Home Office,First Class,Office Supplies,Paper,69.56,8,0.5,-9.14
+2021-05-27 23:21:04.864864,East,Home Office,First Class,Technology,Accessories,436.95,3,0.4,12.46
+2021-05-29 10:25:35.135135,West,Consumer,Same Day,Office Supplies,Paper,107.35,8,0.2,3.62
+2021-05-30 21:30:05.405405,East,Corporate,Second Class,Technology,Accessories,15.79,14,0.1,3.02
+2021-06-01 08:34:35.675675,West,Consumer,First Class,Technology,Phones,51.75,9,0.2,8.88
+2021-06-02 19:39:05.945945,Central,Home Office,Second Class,Office Supplies,Binders,73.28,14,0.4,6.89
+2021-06-04 06:43:36.216216,South,Consumer,First Class,Technology,Computers,798.52,3,0.1,87.89
+2021-06-05 17:48:06.486486,West,Corporate,Same Day,Office Supplies,Paper,,3,0.2,36.75
+2021-06-07 04:52:36.756756,South,Consumer,Second Class,Furniture,Bookcases,684.76,2,0.5,-116.56
+2021-06-08 15:57:07.027027,Central,Home Office,First Class,Technology,Phones,,8,0.1,
+2021-06-10 03:01:37.297297,East,Corporate,Same Day,Furniture,Bookcases,173.17,10,0.0,10.0
+2021-06-11 14:06:07.567567,Central,Consumer,First Class,Office Supplies,Binders,104.12,1,0.2,11.56
+2021-06-13 01:10:37.837837,South,Consumer,Second Class,Furniture,Bookcases,243.09,8,0.1,45.66
+2021-06-14 12:15:08.108108,Central,Corporate,First Class,Furniture,Tables,,7,0.5,-2.07
+2021-06-15 23:19:38.378378,East,Corporate,Second Class,Office Supplies,Pens,581.34,14,0.1,15.18
+2021-06-17 10:24:08.648648,Central,Home Office,Second Class,Furniture,Bookcases,452.01,7,0.1,122.75
+2021-06-18 21:28:38.918918,East,Corporate,First Class,Furniture,Bookcases,105.51,3,0.5,-20.64
+2021-06-20 08:33:09.189189,West,Home Office,Same Day,Office Supplies,Paper,773.33,1,0.2,90.35
+2021-06-21 19:37:39.459459,South,Consumer,Standard Class,Furniture,Chairs,446.03,4,0.3,-28.19
+2021-06-23 06:42:09.729729,East,Home Office,Same Day,Office Supplies,Binders,284.38,9,0.2,6.3
+2021-06-24 17:46:40.000000,East,Consumer,Same Day,Furniture,Tables,,5,0.4,-1.11
+2021-06-26 04:51:10.270270,Central,Corporate,First Class,Office Supplies,Paper,172.63,1,0.5,-21.55
+2021-06-27 15:55:40.540540,West,Consumer,Same Day,Office Supplies,Binders,186.36,5,0.2,-4.09
+2021-06-29 03:00:10.810810,East,Corporate,Same Day,Furniture,Chairs,,13,0.1,3.14
+2021-06-30 14:04:41.081081,West,Consumer,Standard Class,Furniture,Bookcases,30.84,8,0.5,-3.84
+2021-07-02 01:09:11.351351,West,Consumer,Same Day,Furniture,Tables,384.84,8,0.0,106.67
+2021-07-03 12:13:41.621621,Central,Consumer,Standard Class,Technology,Computers,42.54,5,0.2,8.48
+2021-07-04 23:18:11.891891,East,Consumer,First Class,Technology,Phones,235.53,12,0.5,-52.94
+2021-07-06 10:22:42.162162,Central,Home Office,Standard Class,Technology,Computers,698.98,9,0.2,33.5
+2021-07-07 21:27:12.432432,South,Consumer,Second Class,Office Supplies,Binders,532.08,1,0.5,-117.02
+2021-07-09 08:31:42.702702,South,Home Office,Second Class,Furniture,Bookcases,91.35,4,0.1,-0.46
+2021-07-10 19:36:12.972972,East,Corporate,Standard Class,Office Supplies,Binders,486.71,3,0.0,120.96
+2021-07-12 06:40:43.243243,West,Corporate,Second Class,Technology,Accessories,10.08,2,0.0,2.33
+2021-07-13 17:45:13.513513,East,Home Office,First Class,Furniture,Chairs,14.46,8,0.4,-2.04
+2021-07-15 04:49:43.783783,East,Corporate,Second Class,Office Supplies,Binders,240.67,7,0.5,
+2021-07-16 15:54:14.054054,South,Corporate,Standard Class,Furniture,Bookcases,123.45,9,0.2,-7.76
+2021-07-18 02:58:44.324324,South,Consumer,First Class,Office Supplies,Paper,132.13,2,0.0,39.7
+2021-07-19 14:03:14.594594,West,Consumer,Second Class,Furniture,Tables,217.78,14,0.0,74.57
+2021-07-21 01:07:44.864864,West,Consumer,First Class,Technology,Phones,63.23,14,0.3,-5.65
+2021-07-22 12:12:15.135135,East,Home Office,Standard Class,Technology,Computers,69.49,4,0.3,-4.21
+2021-07-23 23:16:45.405405,Central,Home Office,Second Class,Furniture,Chairs,175.7,14,0.0,54.56
+2021-07-25 10:21:15.675675,East,Corporate,First Class,Office Supplies,Paper,360.86,6,0.5,10.08
+2021-07-26 21:25:45.945945,West,Consumer,First Class,Technology,Accessories,251.57,11,0.4,-16.13
+2021-07-28 08:30:16.216216,Central,Home Office,Second Class,Technology,Phones,98.23,3,0.0,6.4
+2021-07-29 19:34:46.486486,South,Home Office,First Class,Technology,Computers,150.68,8,0.1,0.27
+2021-07-31 06:39:16.756756,West,Consumer,First Class,Furniture,Tables,56.78,3,0.2,5.8
+2021-08-01 17:43:47.027027,West,Home Office,Standard Class,Furniture,Bookcases,29.39,14,0.4,-2.12
+2021-08-03 04:48:17.297297,Central,Consumer,Standard Class,Office Supplies,Binders,391.61,12,0.1,-0.55
+2021-08-04 15:52:47.567567,West,Corporate,Standard Class,Office Supplies,Binders,87.1,13,0.4,-1.31
+2021-08-06 02:57:17.837837,West,Corporate,Standard Class,Office Supplies,Binders,58.93,13,0.1,
+2021-08-07 14:01:48.108108,West,Corporate,Standard Class,Furniture,Chairs,304.1,2,0.2,50.54
+2021-08-09 01:06:18.378378,West,Consumer,Standard Class,Furniture,Chairs,250.62,13,0.2,5.5
+2021-08-10 12:10:48.648648,West,Home Office,Second Class,Office Supplies,Binders,260.73,13,0.3,-30.75
+2021-08-11 23:15:18.918918,West,Corporate,Standard Class,Office Supplies,Pens,74.98,3,0.5,-5.51
+2021-08-13 10:19:49.189189,West,Corporate,First Class,Furniture,Chairs,76.2,11,0.1,8.33
+2021-08-14 21:24:19.459459,West,Corporate,Second Class,Office Supplies,Pens,72.37,6,0.3,11.73
+2021-08-16 08:28:49.729729,South,Home Office,First Class,Technology,Computers,57.72,2,0.1,8.85
+2021-08-17 19:33:20.000000,West,Home Office,Standard Class,Furniture,Tables,276.58,8,0.3,-13.12
+2021-08-19 06:37:50.270270,South,Consumer,Standard Class,Office Supplies,Paper,480.99,1,0.2,68.7
+2021-08-20 17:42:20.540540,South,Corporate,First Class,Furniture,Tables,332.13,7,0.4,-36.05
+2021-08-22 04:46:50.810810,East,Home Office,First Class,Technology,Phones,402.67,2,0.3,56.89
+2021-08-23 15:51:21.081081,East,Consumer,First Class,Furniture,Tables,139.71,10,0.1,14.31
+2021-08-25 02:55:51.351351,South,Corporate,Same Day,Furniture,Tables,275.38,12,0.1,42.67
+2021-08-26 14:00:21.621621,South,Home Office,Same Day,Furniture,Chairs,119.33,6,0.5,-28.02
+2021-08-28 01:04:51.891891,West,Home Office,Same Day,Furniture,Chairs,196.38,12,0.2,11.36
+2021-08-29 12:09:22.162162,East,Consumer,Same Day,Technology,Phones,174.27,2,0.1,41.77
+2021-08-30 23:13:52.432432,Central,Corporate,Second Class,Furniture,Tables,58.67,2,0.0,17.11
+2021-09-01 10:18:22.702702,East,Corporate,Standard Class,Furniture,Tables,132.38,10,0.4,-16.24
+2021-09-02 21:22:52.972972,South,Home Office,First Class,Office Supplies,Pens,,13,0.3,-52.22
+2021-09-04 08:27:23.243243,South,Corporate,Standard Class,Furniture,Chairs,81.45,8,0.5,-0.39
+2021-09-05 19:31:53.513513,West,Consumer,First Class,Office Supplies,Binders,45.91,12,0.4,4.09
+2021-09-07 06:36:23.783783,West,Home Office,Standard Class,Technology,Computers,145.57,2,0.2,
+2021-09-08 17:40:54.054054,East,Home Office,Second Class,Technology,Phones,400.56,7,0.5,-46.06
+2021-09-10 04:45:24.324324,West,Consumer,Same Day,Technology,Accessories,228.16,3,0.3,-6.56
+2021-09-11 15:49:54.594594,Central,Home Office,Standard Class,Technology,Phones,295.62,8,0.3,38.79
+2021-09-13 02:54:24.864864,Central,Corporate,First Class,Office Supplies,Pens,62.59,7,0.0,4.7
+2021-09-14 13:58:55.135135,West,Corporate,Standard Class,Furniture,Tables,251.2,14,0.2,-1.67
+2021-09-16 01:03:25.405405,Central,Home Office,Second Class,Technology,Accessories,107.71,8,0.5,-2.61
+2021-09-17 12:07:55.675675,Central,Consumer,Second Class,Furniture,Tables,459.4,14,0.5,-107.78
+2021-09-18 23:12:25.945945,East,Consumer,Standard Class,Office Supplies,Paper,,7,0.1,35.55
+2021-09-20 10:16:56.216216,Central,Corporate,Same Day,Office Supplies,Paper,65.43,11,0.0,11.95
+2021-09-21 21:21:26.486486,South,Consumer,First Class,Office Supplies,Paper,26.7,6,0.0,4.01
+2021-09-23 08:25:56.756756,South,Home Office,Second Class,Technology,Accessories,20.89,13,0.5,-2.75
+2021-09-24 19:30:27.027027,East,Home Office,Second Class,Furniture,Tables,126.07,7,0.5,-11.47
+2021-09-26 06:34:57.297297,West,Corporate,Standard Class,Furniture,Chairs,87.26,5,0.4,-12.36
+2021-09-27 17:39:27.567567,East,Corporate,Second Class,Furniture,Chairs,269.68,7,0.4,-4.96
+2021-09-29 04:43:57.837837,West,Corporate,Second Class,Office Supplies,Binders,182.95,1,0.4,
+2021-09-30 15:48:28.108108,West,Consumer,First Class,Technology,Phones,87.32,1,0.0,24.28
+2021-10-02 02:52:58.378378,West,Home Office,Same Day,Office Supplies,Binders,50.41,9,0.1,1.82
+2021-10-03 13:57:28.648648,West,Home Office,First Class,Office Supplies,Binders,44.01,14,0.3,-3.75
+2021-10-05 01:01:58.918918,West,Home Office,Same Day,Furniture,Tables,509.99,5,0.4,-55.87
+2021-10-06 12:06:29.189189,East,Corporate,First Class,Office Supplies,Binders,79.76,13,0.1,7.84
+2021-10-07 23:10:59.459459,West,Home Office,Standard Class,Furniture,Tables,273.68,5,0.2,14.38
+2021-10-09 10:15:29.729729,Central,Consumer,Second Class,Technology,Accessories,426.09,3,0.4,5.93
+2021-10-10 21:20:00.000000,Central,Consumer,Same Day,Furniture,Chairs,248.03,5,0.3,-28.03
+2021-10-12 08:24:30.270270,West,Home Office,Standard Class,Technology,Accessories,500.75,3,0.2,-29.84
+2021-10-13 19:29:00.540540,Central,Corporate,Second Class,Furniture,Chairs,134.56,9,0.2,6.4
+2021-10-15 06:33:30.810810,South,Home Office,Second Class,Office Supplies,Pens,792.16,9,0.3,62.7
+2021-10-16 17:38:01.081081,East,Consumer,Second Class,Office Supplies,Binders,,6,0.4,-6.03
+2021-10-18 04:42:31.351351,East,Consumer,First Class,Technology,Phones,36.94,1,0.0,8.96
+2021-10-19 15:47:01.621621,West,Consumer,Standard Class,Technology,Phones,278.74,7,0.3,-14.51
+2021-10-21 02:51:31.891891,West,Home Office,Standard Class,Technology,Accessories,725.44,7,0.3,98.53
+2021-10-22 13:56:02.162162,South,Consumer,Second Class,Furniture,Bookcases,423.72,14,0.3,58.77
+2021-10-24 01:00:32.432432,West,Corporate,Same Day,Furniture,Chairs,29.87,10,0.2,0.57
+2021-10-25 12:05:02.702702,Central,Home Office,Standard Class,Technology,Accessories,91.91,10,0.1,5.42
+2021-10-26 23:09:32.972972,South,Home Office,First Class,Office Supplies,Pens,675.96,4,0.0,117.21
+2021-10-28 10:14:03.243243,Central,Consumer,Same Day,Furniture,Bookcases,,8,0.4,-9.77
+2021-10-29 21:18:33.513513,East,Consumer,Same Day,Furniture,Tables,389.87,6,0.4,4.57
+2021-10-31 08:23:03.783783,Central,Corporate,Same Day,Furniture,Tables,445.93,4,0.1,106.05
+2021-11-01 19:27:34.054054,East,Home Office,Same Day,Technology,Accessories,181.02,4,0.3,13.02
+2021-11-03 06:32:04.324324,Central,Consumer,Standard Class,Technology,Accessories,132.08,2,0.0,39.27
+2021-11-04 17:36:34.594594,East,Corporate,Second Class,Technology,Computers,159.52,14,0.4,-11.31
+2021-11-06 04:41:04.864864,West,Consumer,Same Day,Technology,Computers,74.36,2,0.5,-15.1
+2021-11-07 15:45:35.135135,Central,Home Office,First Class,Technology,Phones,560.44,12,0.4,17.59
+2021-11-09 02:50:05.405405,East,Consumer,First Class,Office Supplies,Paper,,14,0.3,-3.49
+2021-11-10 13:54:35.675675,Central,Home Office,Second Class,Office Supplies,Binders,545.24,4,0.5,-26.51
+2021-11-12 00:59:05.945945,South,Consumer,Standard Class,Technology,Accessories,37.93,5,0.1,2.7
+2021-11-13 12:03:36.216216,West,Home Office,Second Class,Furniture,Bookcases,1121.51,8,0.0,83.41
+2021-11-14 23:08:06.486486,East,Corporate,Same Day,Technology,Accessories,156.42,6,0.1,45.01
+2021-11-16 10:12:36.756756,South,Home Office,Standard Class,Office Supplies,Pens,22.25,14,0.1,0.82
+2021-11-17 21:17:07.027027,Central,Corporate,Standard Class,Office Supplies,Paper,19.69,4,0.0,6.82
+2021-11-19 08:21:37.297297,South,Home Office,Same Day,Furniture,Tables,352.81,13,0.0,121.08
+2021-11-20 19:26:07.567567,Central,Corporate,First Class,Office Supplies,Pens,278.99,11,0.4,13.43
+2021-11-22 06:30:37.837837,West,Consumer,Same Day,Technology,Phones,415.04,7,0.4,3.25
+2021-11-23 17:35:08.108108,South,Home Office,Second Class,Furniture,Bookcases,37.84,8,0.0,8.45
+2021-11-25 04:39:38.378378,West,Consumer,Same Day,Technology,Computers,19.05,2,0.5,0.19
+2021-11-26 15:44:08.648648,East,Corporate,First Class,Technology,Phones,187.61,12,0.2,3.16
+2021-11-28 02:48:38.918918,Central,Home Office,Same Day,Furniture,Tables,,7,0.4,-6.59
+2021-11-29 13:53:09.189189,Central,Home Office,Second Class,Technology,Computers,,14,0.2,19.1
+2021-12-01 00:57:39.459459,West,Consumer,Second Class,Office Supplies,Paper,1204.54,2,0.5,-152.55
+2021-12-02 12:02:09.729729,West,Home Office,First Class,Technology,Phones,892.97,2,0.0,159.17
+2021-12-03 23:06:40.000000,East,Home Office,Second Class,Furniture,Chairs,723.19,8,0.5,-109.14
+2021-12-05 10:11:10.270270,South,Consumer,Second Class,Furniture,Chairs,,2,0.4,-8.15
+2021-12-06 21:15:40.540540,Central,Home Office,Same Day,Furniture,Chairs,119.56,11,0.1,29.31
+2021-12-08 08:20:10.810810,Central,Consumer,Standard Class,Technology,Phones,142.81,9,0.0,15.77
+2021-12-09 19:24:41.081081,East,Consumer,Second Class,Furniture,Chairs,209.41,12,0.3,31.48
+2021-12-11 06:29:11.351351,East,Consumer,Second Class,Furniture,Bookcases,453.78,1,0.2,62.04
+2021-12-12 17:33:41.621621,West,Consumer,First Class,Technology,Computers,27.8,9,0.5,-0.08
+2021-12-14 04:38:11.891891,West,Consumer,First Class,Office Supplies,Paper,148.04,1,0.0,32.1
+2021-12-15 15:42:42.162162,South,Corporate,Same Day,Technology,Accessories,31.56,10,0.5,-0.51
+2021-12-17 02:47:12.432432,East,Corporate,Same Day,Furniture,Bookcases,190.73,13,0.0,10.46
+2021-12-18 13:51:42.702702,South,Consumer,Second Class,Furniture,Bookcases,582.91,10,0.4,32.36
+2021-12-20 00:56:12.972972,East,Corporate,Standard Class,Technology,Computers,391.37,2,0.4,-69.65
+2021-12-21 12:00:43.243243,Central,Corporate,Standard Class,Office Supplies,Paper,74.64,6,0.4,5.75
+2021-12-22 23:05:13.513513,East,Home Office,Same Day,Furniture,Bookcases,942.33,6,0.5,44.84
+2021-12-24 10:09:43.783783,East,Consumer,First Class,Furniture,Tables,,1,0.3,-11.91
+2021-12-25 21:14:14.054054,Central,Corporate,Second Class,Furniture,Tables,,7,0.4,-1.6
+2021-12-27 08:18:44.324324,East,Home Office,Second Class,Technology,Computers,83.73,8,0.0,23.41
+2021-12-28 19:23:14.594594,South,Home Office,Standard Class,Furniture,Bookcases,85.52,2,0.4,-9.76
+2021-12-30 06:27:44.864864,West,Consumer,Same Day,Office Supplies,Paper,27.94,8,0.1,6.98
+2021-12-31 17:32:15.135135,West,Consumer,Standard Class,Furniture,Bookcases,813.64,9,0.4,-129.49
+2022-01-02 04:36:45.405405,South,Home Office,Standard Class,Furniture,Bookcases,172.64,6,0.5,-36.64
+2022-01-03 15:41:15.675675,Central,Consumer,Same Day,Office Supplies,Paper,575.4,5,0.3,94.22
+2022-01-05 02:45:45.945945,East,Consumer,First Class,Furniture,Chairs,107.23,12,0.1,20.6
+2022-01-06 13:50:16.216216,South,Home Office,Second Class,Technology,Phones,43.45,9,0.5,0.18
+2022-01-08 00:54:46.486486,West,Home Office,First Class,Technology,Computers,170.77,13,0.5,-26.08
+2022-01-09 11:59:16.756756,West,Consumer,Same Day,Technology,Phones,40.25,12,0.5,-1.89
+2022-01-10 23:03:47.027027,South,Corporate,Same Day,Office Supplies,Pens,176.39,11,0.0,40.26
+2022-01-12 10:08:17.297297,West,Consumer,Second Class,Furniture,Chairs,642.36,9,0.5,-44.36
+2022-01-13 21:12:47.567567,South,Corporate,First Class,Technology,Accessories,193.89,1,0.0,49.4
+2022-01-15 08:17:17.837837,West,Home Office,Second Class,Office Supplies,Binders,249.6,11,0.5,-19.32
+2022-01-16 19:21:48.108108,South,Corporate,Standard Class,Furniture,Bookcases,52.59,3,0.2,3.09
+2022-01-18 06:26:18.378378,East,Home Office,Standard Class,Office Supplies,Pens,21.18,9,0.1,1.54
+2022-01-19 17:30:48.648648,East,Consumer,Standard Class,Technology,Phones,39.36,11,0.2,6.32
+2022-01-21 04:35:18.918918,East,Consumer,First Class,Technology,Phones,238.16,2,0.5,-43.37
+2022-01-22 15:39:49.189189,East,Home Office,Standard Class,Technology,Accessories,34.96,12,0.1,6.91
+2022-01-24 02:44:19.459459,West,Home Office,Second Class,Office Supplies,Paper,127.9,4,0.1,7.67
+2022-01-25 13:48:49.729729,Central,Home Office,First Class,Office Supplies,Binders,209.68,4,0.3,12.08
+2022-01-27 00:53:20.000000,South,Consumer,Second Class,Technology,Computers,133.02,2,0.2,20.5
+2022-01-28 11:57:50.270270,Central,Consumer,Same Day,Office Supplies,Paper,54.69,3,0.3,-3.52
+2022-01-29 23:02:20.540540,West,Corporate,First Class,Technology,Computers,89.98,13,0.1,0.72
+2022-01-31 10:06:50.810810,West,Home Office,Second Class,Technology,Phones,668.88,3,0.0,59.73
+2022-02-01 21:11:21.081081,Central,Corporate,Second Class,Furniture,Bookcases,291.74,1,0.1,50.12
+2022-02-03 08:15:51.351351,Central,Consumer,First Class,Office Supplies,Pens,181.32,6,0.3,22.63
+2022-02-04 19:20:21.621621,West,Corporate,Same Day,Technology,Computers,13.2,8,0.2,-0.75
+2022-02-06 06:24:51.891891,West,Corporate,First Class,Technology,Phones,1230.41,12,0.5,-36.61
+2022-02-07 17:29:22.162162,South,Consumer,Standard Class,Office Supplies,Paper,288.27,3,0.5,-42.55
+2022-02-09 04:33:52.432432,East,Consumer,Standard Class,Furniture,Tables,105.29,5,0.2,7.74
+2022-02-10 15:38:22.702702,East,Home Office,Same Day,Furniture,Bookcases,538.55,1,0.5,15.43
+2022-02-12 02:42:52.972972,South,Corporate,Second Class,Technology,Computers,84.75,10,0.5,-12.75
+2022-02-13 13:47:23.243243,Central,Consumer,Second Class,Office Supplies,Pens,206.32,7,0.3,1.98
+2022-02-15 00:51:53.513513,West,Consumer,Second Class,Furniture,Chairs,262.7,10,0.2,-17.31
+2022-02-16 11:56:23.783783,Central,Corporate,First Class,Office Supplies,Pens,72.46,13,0.4,-11.99
+2022-02-17 23:00:54.054054,East,Consumer,First Class,Office Supplies,Binders,968.73,1,0.0,123.59
+2022-02-19 10:05:24.324324,East,Home Office,Same Day,Technology,Phones,354.77,12,0.0,20.7
+2022-02-20 21:09:54.594594,Central,Home Office,Standard Class,Furniture,Tables,214.01,11,0.5,-12.97
+2022-02-22 08:14:24.864864,East,Corporate,Second Class,Technology,Computers,59.79,9,0.0,
+2022-02-23 19:18:55.135135,West,Home Office,Standard Class,Furniture,Bookcases,23.84,8,0.2,
+2022-02-25 06:23:25.405405,South,Consumer,First Class,Furniture,Tables,106.44,7,0.2,-1.87
+2022-02-26 17:27:55.675675,Central,Consumer,First Class,Furniture,Bookcases,359.78,10,0.1,28.34
+2022-02-28 04:32:25.945945,West,Consumer,First Class,Furniture,Chairs,88.45,7,0.1,16.73
+2022-03-01 15:36:56.216216,West,Consumer,Standard Class,Furniture,Bookcases,203.89,5,0.0,69.24
+2022-03-03 02:41:26.486486,East,Corporate,Same Day,Office Supplies,Paper,335.44,5,0.4,-58.66
+2022-03-04 13:45:56.756756,West,Home Office,Same Day,Technology,Accessories,38.56,11,0.1,9.91
+2022-03-06 00:50:27.027027,Central,Home Office,First Class,Office Supplies,Binders,299.03,13,0.1,48.76
+2022-03-07 11:54:57.297297,West,Consumer,Second Class,Furniture,Bookcases,34.09,5,0.2,3.38
+2022-03-08 22:59:27.567567,South,Corporate,Standard Class,Technology,Accessories,849.03,1,0.4,-33.89
+2022-03-10 10:03:57.837837,West,Consumer,First Class,Furniture,Chairs,177.55,8,0.5,-40.69
+2022-03-11 21:08:28.108108,West,Consumer,Standard Class,Technology,Computers,50.83,12,0.0,3.91
+2022-03-13 08:12:58.378378,South,Corporate,Standard Class,Office Supplies,Pens,114.78,11,0.1,19.54
+2022-03-14 19:17:28.648648,West,Corporate,Same Day,Technology,Computers,143.36,1,0.4,-12.57
+2022-03-16 06:21:58.918918,West,Consumer,First Class,Technology,Accessories,,4,0.4,31.08
+2022-03-17 17:26:29.189189,East,Home Office,Same Day,Technology,Accessories,350.08,9,0.0,60.21
+2022-03-19 04:30:59.459459,Central,Consumer,First Class,Technology,Computers,246.65,14,0.4,-36.26
+2022-03-20 15:35:29.729729,East,Home Office,Standard Class,Technology,Accessories,,9,0.4,0.93
+2022-03-22 02:40:00.000000,Central,Home Office,Same Day,Furniture,Tables,51.09,5,0.4,-5.21
+2022-03-23 13:44:30.270270,South,Corporate,Standard Class,Technology,Accessories,34.61,4,0.1,5.11
+2022-03-25 00:49:00.540540,South,Corporate,First Class,Technology,Phones,225.2,3,0.0,58.41
+2022-03-26 11:53:30.810810,South,Consumer,Second Class,Office Supplies,Binders,534.17,3,0.4,42.78
+2022-03-27 22:58:01.081081,Central,Home Office,Same Day,Technology,Accessories,152.2,12,0.4,7.25
+2022-03-29 10:02:31.351351,Central,Home Office,Same Day,Office Supplies,Pens,53.84,5,0.1,10.39
+2022-03-30 21:07:01.621621,Central,Consumer,Standard Class,Furniture,Chairs,214.14,10,0.0,54.37
+2022-04-01 08:11:31.891891,South,Consumer,Standard Class,Technology,Computers,427.5,1,0.2,91.39
+2022-04-02 19:16:02.162162,Central,Consumer,Second Class,Office Supplies,Pens,348.42,5,0.1,27.44
+2022-04-04 06:20:32.432432,West,Corporate,Same Day,Office Supplies,Paper,543.11,6,0.0,27.34
+2022-04-05 17:25:02.702702,East,Consumer,First Class,Furniture,Bookcases,91.4,7,0.4,-9.91
+2022-04-07 04:29:32.972972,South,Consumer,First Class,Technology,Computers,63.9,12,0.0,7.37
+2022-04-08 15:34:03.243243,East,Home Office,Same Day,Technology,Accessories,539.68,9,0.0,134.14
+2022-04-10 02:38:33.513513,West,Consumer,Same Day,Office Supplies,Pens,277.91,3,0.5,-16.64
+2022-04-11 13:43:03.783783,Central,Home Office,Same Day,Technology,Accessories,103.1,2,0.0,23.51
+2022-04-13 00:47:34.054054,East,Home Office,Second Class,Office Supplies,Pens,349.04,14,0.2,-22.73
+2022-04-14 11:52:04.324324,West,Corporate,First Class,Technology,Phones,432.01,3,0.0,116.05
+2022-04-15 22:56:34.594594,West,Consumer,First Class,Office Supplies,Paper,248.61,12,0.2,6.73
+2022-04-17 10:01:04.864864,East,Consumer,Standard Class,Technology,Computers,301.1,9,0.4,2.87
+2022-04-18 21:05:35.135135,South,Home Office,Standard Class,Furniture,Chairs,127.6,12,0.2,12.37
+2022-04-20 08:10:05.405405,East,Corporate,Same Day,Technology,Phones,203.42,7,0.4,-17.73
+2022-04-21 19:14:35.675675,South,Corporate,Standard Class,Technology,Computers,195.67,9,0.4,
+2022-04-23 06:19:05.945945,Central,Consumer,Second Class,Furniture,Chairs,481.05,13,0.2,-20.05
+2022-04-24 17:23:36.216216,South,Home Office,First Class,Technology,Phones,468.09,2,0.1,112.09
+2022-04-26 04:28:06.486486,Central,Consumer,First Class,Furniture,Tables,456.96,5,0.3,66.5
+2022-04-27 15:32:36.756756,East,Consumer,Standard Class,Technology,Computers,12.77,13,0.0,3.13
+2022-04-29 02:37:07.027027,Central,Consumer,Same Day,Office Supplies,Binders,356.12,4,0.5,-77.98
+2022-04-30 13:41:37.297297,West,Consumer,Standard Class,Office Supplies,Pens,365.4,2,0.3,-3.43
+2022-05-02 00:46:07.567567,Central,Home Office,Same Day,Technology,Accessories,293.6,9,0.0,78.88
+2022-05-03 11:50:37.837837,South,Corporate,Second Class,Technology,Computers,362.92,9,0.0,103.05
+2022-05-04 22:55:08.108108,South,Consumer,First Class,Technology,Computers,471.24,6,0.4,-72.82
+2022-05-06 09:59:38.378378,South,Consumer,Second Class,Office Supplies,Binders,6313.928663718318,11,0.0,8.45
+2022-05-07 21:04:08.648648,Central,Consumer,First Class,Technology,Accessories,184.31,6,0.5,-6.7
+2022-05-09 08:08:38.918918,South,Consumer,Second Class,Office Supplies,Pens,43.3,8,0.0,6.8
+2022-05-10 19:13:09.189189,South,Corporate,Standard Class,Furniture,Chairs,131.69,6,0.2,0.84
+2022-05-12 06:17:39.459459,West,Corporate,Second Class,Office Supplies,Paper,267.76,1,0.3,-33.77
+2022-05-13 17:22:09.729729,Central,Corporate,Second Class,Office Supplies,Binders,388.99,4,0.2,35.82
+2022-05-15 04:26:40.000000,West,Corporate,Standard Class,Furniture,Bookcases,71.22,13,0.5,0.38
+2022-05-16 15:31:10.270270,South,Consumer,First Class,Office Supplies,Pens,47.07,7,0.0,15.88
+2022-05-18 02:35:40.540540,South,Home Office,First Class,Technology,Accessories,281.95,13,0.5,-22.63
+2022-05-19 13:40:10.810810,South,Corporate,Standard Class,Technology,Computers,10.47,13,0.4,-0.37
+2022-05-21 00:44:41.081081,Central,Corporate,Second Class,Office Supplies,Paper,59.12,2,0.2,
+2022-05-22 11:49:11.351351,East,Consumer,Second Class,Technology,Computers,17.38,9,0.2,1.65
+2022-05-23 22:53:41.621621,South,Consumer,Second Class,Office Supplies,Paper,55.65,8,0.1,5.79
+2022-05-25 09:58:11.891891,South,Consumer,Same Day,Technology,Phones,60.02,8,0.0,13.93
+2022-05-26 21:02:42.162162,South,Consumer,First Class,Technology,Computers,132.62,7,0.4,-9.73
+2022-05-28 08:07:12.432432,South,Home Office,Second Class,Office Supplies,Paper,138.68,4,0.2,0.29
+2022-05-29 19:11:42.702702,Central,Home Office,First Class,Technology,Phones,528.39,2,0.2,-21.93
+2022-05-31 06:16:12.972972,East,Corporate,Second Class,Office Supplies,Pens,188.39,3,0.4,-18.0
+2022-06-01 17:20:43.243243,East,Home Office,Standard Class,Technology,Phones,331.3,12,0.5,-73.22
+2022-06-03 04:25:13.513513,East,Corporate,Standard Class,Technology,Computers,37.49,6,0.5,-7.38
+2022-06-04 15:29:43.783783,South,Corporate,First Class,Furniture,Tables,73.86,12,0.0,25.57
+2022-06-06 02:34:14.054054,South,Home Office,First Class,Furniture,Chairs,313.46,12,0.1,38.63
+2022-06-07 13:38:44.324324,East,Corporate,Standard Class,Office Supplies,Pens,23.56,5,0.2,2.11
+2022-06-09 00:43:14.594594,East,Consumer,Same Day,Furniture,Bookcases,176.67,12,0.1,44.54
+2022-06-10 11:47:44.864864,South,Corporate,Standard Class,Office Supplies,Paper,238.68,8,0.5,11.62
+2022-06-11 22:52:15.135135,South,Consumer,Second Class,Furniture,Chairs,240.42,6,0.5,-18.08
+2022-06-13 09:56:45.405405,West,Home Office,Same Day,Technology,Computers,15.8,6,0.3,1.8
+2022-06-14 21:01:15.675675,West,Home Office,Standard Class,Office Supplies,Paper,107.19,1,0.0,15.87
+2022-06-16 08:05:45.945945,West,Corporate,Same Day,Office Supplies,Pens,262.99,4,0.3,-10.07
+2022-06-17 19:10:16.216216,East,Consumer,Same Day,Technology,Phones,50.34,5,0.3,-0.46
+2022-06-19 06:14:46.486486,Central,Corporate,Same Day,Office Supplies,Binders,307.2,12,0.3,22.04
+2022-06-20 17:19:16.756756,South,Home Office,First Class,Office Supplies,Binders,352.53,11,0.0,89.77
+2022-06-22 04:23:47.027027,West,Corporate,Standard Class,Furniture,Tables,1013.92,3,0.0,146.58
+2022-06-23 15:28:17.297297,Central,Corporate,First Class,Office Supplies,Binders,68.88,13,0.4,-10.33
+2022-06-25 02:32:47.567567,South,Consumer,First Class,Technology,Computers,445.93,9,0.1,80.14
+2022-06-26 13:37:17.837837,Central,Home Office,Second Class,Furniture,Chairs,193.65,1,0.1,5.52
+2022-06-28 00:41:48.108108,East,Corporate,Second Class,Furniture,Chairs,126.89,6,0.4,-2.09
+2022-06-29 11:46:18.378378,East,Consumer,Same Day,Technology,Phones,42.63,6,0.4,0.77
+2022-06-30 22:50:48.648648,East,Corporate,Same Day,Technology,Phones,342.48,10,0.5,-13.64
+2022-07-02 09:55:18.918918,West,Consumer,Second Class,Furniture,Tables,77.25,5,0.3,7.42
+2022-07-03 20:59:49.189189,South,Consumer,Second Class,Office Supplies,Pens,126.07,12,0.4,9.06
+2022-07-05 08:04:19.459459,East,Corporate,Standard Class,Furniture,Chairs,26.15,5,0.2,2.09
+2022-07-06 19:08:49.729729,West,Home Office,Same Day,Technology,Accessories,414.07,10,0.1,86.57
+2022-07-08 06:13:20.000000,West,Home Office,Same Day,Furniture,Chairs,373.74,14,0.4,-1.59
+2022-07-09 17:17:50.270270,West,Consumer,Second Class,Technology,Phones,340.7,13,0.2,-4.77
+2022-07-11 04:22:20.540540,West,Home Office,Standard Class,Furniture,Bookcases,98.97,5,0.2,-6.17
+2022-07-12 15:26:50.810810,East,Consumer,Second Class,Office Supplies,Binders,57.63,6,0.2,0.89
+2022-07-14 02:31:21.081081,West,Home Office,Second Class,Furniture,Chairs,263.72,8,0.5,-30.88
+2022-07-15 13:35:51.351351,East,Corporate,First Class,Furniture,Chairs,181.38,2,0.5,-11.77
+2022-07-17 00:40:21.621621,East,Home Office,Same Day,Technology,Phones,59.08,6,0.2,10.93
+2022-07-18 11:44:51.891891,West,Consumer,Standard Class,Technology,Accessories,299.52,1,0.5,-57.25
+2022-07-19 22:49:22.162162,East,Consumer,First Class,Technology,Computers,,4,0.3,-109.99
+2022-07-21 09:53:52.432432,South,Home Office,Same Day,Furniture,Bookcases,353.81,14,0.2,77.5
+2022-07-22 20:58:22.702702,South,Corporate,Second Class,Office Supplies,Pens,346.76,10,0.3,
+2022-07-24 08:02:52.972972,Central,Consumer,Standard Class,Technology,Computers,760.5,3,0.3,10.3
+2022-07-25 19:07:23.243243,South,Consumer,Same Day,Technology,Accessories,66.71,9,0.2,7.05
+2022-07-27 06:11:53.513513,East,Consumer,Second Class,Furniture,Tables,218.42,3,0.1,33.29
+2022-07-28 17:16:23.783783,East,Consumer,First Class,Technology,Phones,983.63,6,0.2,-43.47
+2022-07-30 04:20:54.054054,South,Consumer,Standard Class,Office Supplies,Binders,55.17,1,0.2,-2.92
+2022-07-31 15:25:24.324324,West,Corporate,Same Day,Office Supplies,Paper,311.2,12,0.5,-67.95
+2022-08-02 02:29:54.594594,West,Home Office,First Class,Technology,Accessories,230.36,6,0.2,24.34
+2022-08-03 13:34:24.864864,East,Corporate,Second Class,Technology,Accessories,230.76,4,0.1,35.38
+2022-08-05 00:38:55.135135,West,Corporate,Second Class,Furniture,Chairs,309.06,8,0.5,-55.59
+2022-08-06 11:43:25.405405,Central,Consumer,Same Day,Office Supplies,Pens,,13,0.0,
+2022-08-07 22:47:55.675675,Central,Corporate,Second Class,Office Supplies,Binders,391.48,11,0.0,115.89
+2022-08-09 09:52:25.945945,South,Consumer,Standard Class,Technology,Phones,24.44,9,0.3,-2.87
+2022-08-10 20:56:56.216216,South,Corporate,Same Day,Furniture,Bookcases,488.87,4,0.3,9.5
+2022-08-12 08:01:26.486486,West,Consumer,First Class,Office Supplies,Paper,,10,0.1,14.54
+2022-08-13 19:05:56.756756,East,Consumer,Same Day,Office Supplies,Binders,128.27,12,0.4,-14.66
+2022-08-15 06:10:27.027027,South,Corporate,Same Day,Furniture,Tables,164.85,10,0.0,
+2022-08-16 17:14:57.297297,Central,Corporate,First Class,Furniture,Bookcases,173.92,6,0.3,9.41
+2022-08-18 04:19:27.567567,South,Home Office,Second Class,Office Supplies,Binders,152.81,1,0.0,48.8
+2022-08-19 15:23:57.837837,South,Home Office,First Class,Office Supplies,Paper,702.56,4,0.1,163.68
+2022-08-21 02:28:28.108108,Central,Home Office,Standard Class,Furniture,Tables,316.06,7,0.1,52.13
+2022-08-22 13:32:58.378378,East,Corporate,Second Class,Office Supplies,Paper,259.36,12,0.4,
+2022-08-24 00:37:28.648648,South,Corporate,Same Day,Technology,Phones,22.78,1,0.4,-1.84
+2022-08-25 11:41:58.918918,South,Consumer,Second Class,Technology,Computers,595.63,8,0.5,-34.37
+2022-08-26 22:46:29.189189,South,Home Office,Second Class,Furniture,Bookcases,610.3,12,0.1,79.25
+2022-08-28 09:50:59.459459,West,Consumer,Standard Class,Furniture,Tables,388.77,10,0.3,-28.39
+2022-08-29 20:55:29.729729,South,Consumer,Second Class,Furniture,Chairs,11.76,12,0.0,3.06
+2022-08-31 08:00:00.000000,Central,Consumer,Second Class,Technology,Phones,24.75,11,0.2,2.4
+2022-09-01 19:04:30.270270,East,Consumer,Second Class,Office Supplies,Binders,73.8,6,0.4,-6.08
+2022-09-03 06:09:00.540540,East,Home Office,Same Day,Technology,Accessories,45.2,5,0.2,9.19
+2022-09-04 17:13:30.810810,Central,Consumer,Second Class,Office Supplies,Pens,137.22,10,0.3,-16.98
+2022-09-06 04:18:01.081081,West,Corporate,First Class,Technology,Phones,649.77,11,0.4,-61.9
+2022-09-07 15:22:31.351351,Central,Corporate,Second Class,Office Supplies,Paper,169.69,14,0.2,-8.98
+2022-09-09 02:27:01.621621,East,Corporate,Standard Class,Technology,Accessories,13.37,9,0.3,1.34
+2022-09-10 13:31:31.891891,Central,Home Office,Second Class,Furniture,Tables,93.08,2,0.0,24.26
+2022-09-12 00:36:02.162162,West,Consumer,Second Class,Technology,Phones,21.4,5,0.3,-0.65
+2022-09-13 11:40:32.432432,East,Home Office,Same Day,Office Supplies,Paper,19.24,6,0.5,-0.91
+2022-09-14 22:45:02.702702,West,Consumer,First Class,Technology,Accessories,90.64,7,0.4,-6.46
+2022-09-16 09:49:32.972972,Central,Home Office,Second Class,Technology,Computers,,5,0.1,19.65
+2022-09-17 20:54:03.243243,South,Home Office,First Class,Technology,Accessories,396.76,9,0.0,73.9
+2022-09-19 07:58:33.513513,Central,Consumer,Standard Class,Furniture,Tables,930.57,1,0.2,49.96
+2022-09-20 19:03:03.783783,West,Home Office,Same Day,Technology,Computers,125.99,7,0.4,11.39
+2022-09-22 06:07:34.054054,Central,Consumer,First Class,Furniture,Tables,150.04,10,0.1,9.79
+2022-09-23 17:12:04.324324,South,Corporate,Same Day,Furniture,Chairs,475.74,7,0.3,-44.66
+2022-09-25 04:16:34.594594,West,Corporate,Second Class,Technology,Accessories,88.04,4,0.1,14.56
+2022-09-26 15:21:04.864864,Central,Corporate,Standard Class,Technology,Accessories,52.51,9,0.4,5.29
+2022-09-28 02:25:35.135135,West,Home Office,Same Day,Technology,Computers,489.48,14,0.4,-37.52
+2022-09-29 13:30:05.405405,West,Corporate,Second Class,Office Supplies,Paper,21.9,12,0.5,-5.07
+2022-10-01 00:34:35.675675,East,Consumer,First Class,Technology,Phones,251.7,11,0.5,
+2022-10-02 11:39:05.945945,East,Corporate,Standard Class,Furniture,Bookcases,,5,0.1,30.68
+2022-10-03 22:43:36.216216,West,Corporate,Standard Class,Technology,Phones,116.13,4,0.3,-9.46
+2022-10-05 09:48:06.486486,Central,Home Office,First Class,Office Supplies,Paper,104.65,13,0.1,19.61
+2022-10-06 20:52:36.756756,Central,Consumer,First Class,Technology,Computers,379.45,7,0.4,41.48
+2022-10-08 07:57:07.027027,Central,Home Office,Standard Class,Office Supplies,Paper,32.6,4,0.4,-1.78
+2022-10-09 19:01:37.297297,South,Home Office,Same Day,Office Supplies,Binders,77.55,3,0.2,2.82
+2022-10-11 06:06:07.567567,West,Consumer,Standard Class,Technology,Accessories,339.61,9,0.5,-44.08
+2022-10-12 17:10:37.837837,West,Home Office,First Class,Furniture,Chairs,208.7,11,0.2,-7.4
+2022-10-14 04:15:08.108108,South,Consumer,Same Day,Office Supplies,Pens,44.24,8,0.0,13.93
+2022-10-15 15:19:38.378378,West,Corporate,Second Class,Technology,Accessories,544.56,1,0.4,-35.7
+2022-10-17 02:24:08.648648,West,Consumer,Standard Class,Technology,Phones,134.99,7,0.2,6.23
+2022-10-18 13:28:38.918918,South,Consumer,First Class,Furniture,Chairs,449.87,9,0.1,84.53
+2022-10-20 00:33:09.189189,East,Consumer,Second Class,Office Supplies,Pens,397.45,8,0.5,-46.66
+2022-10-21 11:37:39.459459,West,Home Office,Standard Class,Office Supplies,Paper,254.82,8,0.5,-14.15
+2022-10-22 22:42:09.729729,South,Consumer,Standard Class,Technology,Computers,180.54,13,0.3,-20.14
+2022-10-24 09:46:40.000000,Central,Consumer,Same Day,Technology,Computers,982.45,6,0.1,230.01
+2022-10-25 20:51:10.270270,East,Consumer,First Class,Furniture,Chairs,49.15,11,0.3,7.48
+2022-10-27 07:55:40.540540,Central,Corporate,Second Class,Furniture,Bookcases,332.89,4,0.2,41.49
+2022-10-28 19:00:10.810810,West,Consumer,Standard Class,Office Supplies,Paper,63.05,8,0.0,21.21
+2022-10-30 06:04:41.081081,East,Home Office,Same Day,Office Supplies,Paper,113.22,3,0.1,4.01
+2022-10-31 17:09:11.351351,South,Consumer,Second Class,Technology,Accessories,102.29,13,0.1,13.63
+2022-11-02 04:13:41.621621,West,Consumer,Second Class,Office Supplies,Pens,744.54,9,0.1,126.98
+2022-11-03 15:18:11.891891,South,Corporate,Standard Class,Furniture,Tables,865.52,13,0.3,38.53
+2022-11-05 02:22:42.162162,East,Consumer,Second Class,Furniture,Bookcases,60.53,2,0.2,3.05
+2022-11-06 13:27:12.432432,Central,Home Office,Standard Class,Technology,Computers,15.57,2,0.1,1.42
+2022-11-08 00:31:42.702702,West,Consumer,Same Day,Furniture,Bookcases,328.25,12,0.1,9.21
+2022-11-09 11:36:12.972972,West,Home Office,Same Day,Furniture,Chairs,145.32,13,0.5,-19.25
+2022-11-10 22:40:43.243243,South,Corporate,Second Class,Furniture,Tables,33.26,12,0.0,3.29
+2022-11-12 09:45:13.513513,East,Consumer,Standard Class,Furniture,Tables,297.81,7,0.5,
+2022-11-13 20:49:43.783783,South,Corporate,First Class,Technology,Computers,206.92,12,0.5,-38.77
+2022-11-15 07:54:14.054054,East,Consumer,Same Day,Technology,Phones,994.55,10,0.0,
+2022-11-16 18:58:44.324324,West,Home Office,Standard Class,Office Supplies,Paper,74.5,4,0.2,7.13
+2022-11-18 06:03:14.594594,East,Corporate,Standard Class,Furniture,Chairs,139.37,10,0.5,-9.96
+2022-11-19 17:07:44.864864,West,Consumer,Standard Class,Office Supplies,Paper,205.52,8,0.2,39.37
+2022-11-21 04:12:15.135135,East,Home Office,Second Class,Technology,Phones,402.19,9,0.5,-30.93
+2022-11-22 15:16:45.405405,Central,Corporate,First Class,Technology,Computers,208.98,7,0.4,-18.05
+2022-11-24 02:21:15.675675,East,Consumer,Second Class,Technology,Phones,247.27,5,0.0,71.93
+2022-11-25 13:25:45.945945,Central,Corporate,Same Day,Technology,Computers,74.09,8,0.5,-6.51
+2022-11-27 00:30:16.216216,East,Consumer,Second Class,Technology,Phones,479.2,4,0.4,-79.65
+2022-11-28 11:34:46.486486,East,Home Office,Standard Class,Technology,Accessories,149.93,2,0.3,5.96
+2022-11-29 22:39:16.756756,South,Home Office,Second Class,Technology,Computers,47.98,11,0.4,3.95
+2022-12-01 09:43:47.027027,South,Corporate,Standard Class,Furniture,Bookcases,282.8,12,0.1,30.8
+2022-12-02 20:48:17.297297,West,Corporate,First Class,Office Supplies,Binders,70.87,6,0.5,-11.42
+2022-12-04 07:52:47.567567,South,Consumer,Second Class,Technology,Accessories,35.66,9,0.4,-5.24
+2022-12-05 18:57:17.837837,East,Home Office,Second Class,Furniture,Chairs,505.1,1,0.2,-12.41
+2022-12-07 06:01:48.108108,South,Consumer,Second Class,Furniture,Chairs,164.12,11,0.3,-0.03
+2022-12-08 17:06:18.378378,East,Home Office,Standard Class,Office Supplies,Paper,355.86,10,0.5,-25.37
+2022-12-10 04:10:48.648648,Central,Corporate,Standard Class,Technology,Computers,95.83,12,0.1,1.36
+2022-12-11 15:15:18.918918,East,Consumer,Second Class,Office Supplies,Pens,396.58,7,0.4,36.43
+2022-12-13 02:19:49.189189,West,Consumer,Second Class,Technology,Phones,39.68,10,0.3,3.83
+2022-12-14 13:24:19.459459,Central,Home Office,First Class,Furniture,Bookcases,120.0,9,0.5,-8.88
+2022-12-16 00:28:49.729729,West,Home Office,First Class,Furniture,Bookcases,964.88,10,0.3,114.37
+2022-12-17 11:33:20.000000,West,Home Office,Same Day,Furniture,Chairs,404.96,9,0.1,5.69
+2022-12-18 22:37:50.270270,West,Corporate,First Class,Furniture,Chairs,181.92,10,0.4,-8.54
+2022-12-20 09:42:20.540540,South,Consumer,First Class,Office Supplies,Pens,113.79,11,0.3,6.72
+2022-12-21 20:46:50.810810,West,Home Office,First Class,Technology,Phones,524.2,13,0.3,62.17
+2022-12-23 07:51:21.081081,Central,Corporate,Standard Class,Technology,Phones,206.78,3,0.0,58.94
+2022-12-24 18:55:51.351351,East,Home Office,First Class,Office Supplies,Paper,365.14,11,0.3,-17.12
+2022-12-26 06:00:21.621621,West,Consumer,First Class,Technology,Computers,360.72,13,0.0,119.85
+2022-12-27 17:04:51.891891,Central,Home Office,Second Class,Furniture,Bookcases,14.53,5,0.4,-2.22
+2022-12-29 04:09:22.162162,West,Consumer,Standard Class,Technology,Accessories,43.74,8,0.5,0.55
+2022-12-30 15:13:52.432432,East,Corporate,Same Day,Furniture,Tables,279.43,8,0.5,11.54
+2023-01-01 02:18:22.702702,Central,Corporate,Same Day,Office Supplies,Pens,54.07,4,0.4,-7.4
+2023-01-02 13:22:52.972972,Central,Home Office,First Class,Technology,Phones,83.76,12,0.4,2.23
+2023-01-04 00:27:23.243243,East,Consumer,Same Day,Office Supplies,Pens,742.66,11,0.2,-43.01
+2023-01-05 11:31:53.513513,Central,Consumer,Same Day,Technology,Phones,215.35,11,0.4,-14.72
+2023-01-06 22:36:23.783783,East,Consumer,Same Day,Furniture,Tables,357.3,1,0.3,8.89
+2023-01-08 09:40:54.054054,Central,Home Office,First Class,Office Supplies,Paper,,1,0.5,-16.23
+2023-01-09 20:45:24.324324,Central,Consumer,Same Day,Technology,Accessories,211.03,4,0.1,57.14
+2023-01-11 07:49:54.594594,East,Consumer,First Class,Furniture,Bookcases,34.72,6,0.5,-1.68
+2023-01-12 18:54:24.864864,East,Consumer,Second Class,Office Supplies,Pens,115.27,8,0.0,22.41
+2023-01-14 05:58:55.135135,Central,Consumer,Second Class,Office Supplies,Binders,92.97,6,0.5,-0.66
+2023-01-15 17:03:25.405405,Central,Home Office,Same Day,Technology,Computers,133.87,12,0.2,28.8
+2023-01-17 04:07:55.675675,East,Home Office,Second Class,Technology,Accessories,410.3,9,0.4,-75.24
+2023-01-18 15:12:25.945945,South,Consumer,First Class,Technology,Phones,126.28,9,0.4,13.23
+2023-01-20 02:16:56.216216,East,Consumer,Second Class,Furniture,Tables,160.23,14,0.5,-35.92
+2023-01-21 13:21:26.486486,Central,Corporate,Same Day,Technology,Accessories,136.62,2,0.1,32.01
+2023-01-23 00:25:56.756756,Central,Corporate,First Class,Office Supplies,Pens,34.52,10,0.1,
+2023-01-24 11:30:27.027027,Central,Consumer,Standard Class,Office Supplies,Binders,155.43,1,0.2,
+2023-01-25 22:34:57.297297,East,Consumer,First Class,Technology,Computers,64.42,2,0.0,11.72
+2023-01-27 09:39:27.567567,Central,Corporate,Second Class,Technology,Computers,61.67,5,0.5,-3.5
+2023-01-28 20:43:57.837837,South,Corporate,Standard Class,Office Supplies,Paper,34.69,4,0.4,-2.63
+2023-01-30 07:48:28.108108,West,Consumer,First Class,Furniture,Chairs,120.27,4,0.5,-28.1
+2023-01-31 18:52:58.378378,South,Home Office,Standard Class,Technology,Accessories,364.17,9,0.2,
+2023-02-02 05:57:28.648648,East,Home Office,Standard Class,Technology,Computers,,11,0.3,12.79
+2023-02-03 17:01:58.918918,Central,Consumer,Standard Class,Office Supplies,Paper,103.62,8,0.3,-1.56
+2023-02-05 04:06:29.189189,East,Consumer,First Class,Technology,Computers,267.28,6,0.2,-1.36
+2023-02-06 15:10:59.459459,West,Corporate,Second Class,Furniture,Bookcases,64.49,1,0.4,-3.69
+2023-02-08 02:15:29.729729,East,Corporate,First Class,Office Supplies,Paper,578.15,2,0.2,-32.08
+2023-02-09 13:20:00.000000,Central,Home Office,Second Class,Technology,Phones,193.59,6,0.4,10.87
+2023-02-11 00:24:30.270270,West,Consumer,First Class,Office Supplies,Paper,,11,0.1,37.68
+2023-02-12 11:29:00.540540,West,Corporate,First Class,Technology,Accessories,214.01,2,0.2,22.77
+2023-02-13 22:33:30.810810,Central,Home Office,First Class,Technology,Computers,55.39,13,0.4,-4.66
+2023-02-15 09:38:01.081081,Central,Home Office,Second Class,Technology,Phones,247.64,10,0.2,42.08
+2023-02-16 20:42:31.351351,Central,Home Office,First Class,Furniture,Bookcases,122.79,5,0.2,11.84
+2023-02-18 07:47:01.621621,East,Corporate,Standard Class,Furniture,Tables,6259.34046823803,14,0.4,33.44
+2023-02-19 18:51:31.891891,South,Corporate,First Class,Office Supplies,Pens,56.24,5,0.4,-0.03
+2023-02-21 05:56:02.162162,East,Consumer,Standard Class,Technology,Computers,186.84,6,0.0,53.31
+2023-02-22 17:00:32.432432,East,Consumer,Same Day,Technology,Accessories,237.9,6,0.2,26.07
+2023-02-24 04:05:02.702702,South,Home Office,Same Day,Furniture,Tables,18.49,14,0.3,-0.11
+2023-02-25 15:09:32.972972,Central,Home Office,Second Class,Technology,Phones,,6,0.2,26.74
+2023-02-27 02:14:03.243243,Central,Corporate,Second Class,Furniture,Tables,339.79,14,0.2,31.37
+2023-02-28 13:18:33.513513,South,Corporate,Same Day,Technology,Accessories,439.22,2,0.4,-3.72
+2023-03-02 00:23:03.783783,South,Consumer,First Class,Office Supplies,Pens,103.91,14,0.2,-0.4
+2023-03-03 11:27:34.054054,East,Consumer,First Class,Technology,Computers,410.61,10,0.5,-25.58
+2023-03-04 22:32:04.324324,West,Consumer,First Class,Technology,Phones,868.6,14,0.2,88.15
+2023-03-06 09:36:34.594594,South,Corporate,Same Day,Furniture,Chairs,496.01,13,0.5,-96.5
+2023-03-07 20:41:04.864864,East,Home Office,Standard Class,Technology,Computers,41.29,14,0.3,-4.63
+2023-03-09 07:45:35.135135,West,Consumer,Second Class,Technology,Computers,346.51,3,0.4,-3.01
+2023-03-10 18:50:05.405405,Central,Consumer,Standard Class,Furniture,Bookcases,106.29,14,0.2,16.91
+2023-03-12 05:54:35.675675,Central,Corporate,Same Day,Office Supplies,Paper,1124.53,6,0.5,-104.56
+2023-03-13 16:59:05.945945,East,Consumer,Standard Class,Office Supplies,Binders,,13,0.5,-32.04
+2023-03-15 04:03:36.216216,East,Home Office,First Class,Furniture,Chairs,42.65,8,0.5,-2.13
+2023-03-16 15:08:06.486486,South,Corporate,First Class,Furniture,Tables,332.91,12,0.1,4.67
+2023-03-18 02:12:36.756756,Central,Consumer,Standard Class,Furniture,Tables,107.53,13,0.0,19.63
+2023-03-19 13:17:07.027027,East,Consumer,Same Day,Furniture,Chairs,1468.89,11,0.3,-118.97
+2023-03-21 00:21:37.297297,Central,Corporate,Standard Class,Furniture,Tables,985.3,12,0.2,-14.45
+2023-03-22 11:26:07.567567,Central,Corporate,First Class,Office Supplies,Binders,276.88,1,0.1,14.03
+2023-03-23 22:30:37.837837,South,Consumer,First Class,Office Supplies,Pens,44.77,1,0.2,2.06
+2023-03-25 09:35:08.108108,West,Home Office,Same Day,Furniture,Tables,300.28,11,0.2,-16.41
+2023-03-26 20:39:38.378378,South,Corporate,Standard Class,Technology,Computers,,13,0.4,-2.43
+2023-03-28 07:44:08.648648,East,Home Office,First Class,Furniture,Tables,17.45,2,0.4,-0.64
+2023-03-29 18:48:38.918918,South,Consumer,First Class,Technology,Accessories,442.84,11,0.4,-19.93
+2023-03-31 05:53:09.189189,South,Home Office,Standard Class,Furniture,Chairs,68.85,12,0.1,7.22
+2023-04-01 16:57:39.459459,Central,Consumer,Standard Class,Furniture,Bookcases,129.12,12,0.2,23.47
+2023-04-03 04:02:09.729729,South,Consumer,Second Class,Office Supplies,Pens,,6,0.0,85.85
+2023-04-04 15:06:40.000000,East,Consumer,Same Day,Technology,Phones,112.68,9,0.3,2.45
+2023-04-06 02:11:10.270270,West,Consumer,Same Day,Technology,Accessories,97.92,4,0.4,-16.78
+2023-04-07 13:15:40.540540,South,Home Office,Standard Class,Office Supplies,Paper,635.89,3,0.4,-107.24
+2023-04-09 00:20:10.810810,South,Consumer,Same Day,Office Supplies,Pens,39.34,12,0.2,4.02
+2023-04-10 11:24:41.081081,West,Consumer,First Class,Office Supplies,Paper,366.34,8,0.2,36.56
+2023-04-11 22:29:11.351351,East,Home Office,Standard Class,Office Supplies,Binders,1117.08,11,0.1,283.08
+2023-04-13 09:33:41.621621,East,Corporate,Standard Class,Technology,Accessories,,10,0.1,92.67
+2023-04-14 20:38:11.891891,South,Home Office,Standard Class,Technology,Accessories,273.65,14,0.4,26.8
+2023-04-16 07:42:42.162162,Central,Home Office,Second Class,Furniture,Bookcases,104.24,9,0.2,-5.77
+2023-04-17 18:47:12.432432,South,Home Office,Same Day,Furniture,Bookcases,83.37,12,0.0,6.62
+2023-04-19 05:51:42.702702,West,Consumer,Second Class,Office Supplies,Binders,437.67,11,0.3,-51.11
+2023-04-20 16:56:12.972972,West,Consumer,First Class,Office Supplies,Pens,539.7,5,0.2,-7.78
+2023-04-22 04:00:43.243243,West,Consumer,Same Day,Office Supplies,Binders,196.34,9,0.2,18.14
+2023-04-23 15:05:13.513513,South,Corporate,Second Class,Furniture,Tables,80.04,2,0.5,-4.51
+2023-04-25 02:09:43.783783,South,Consumer,Standard Class,Furniture,Tables,,3,0.1,0.15
+2023-04-26 13:14:14.054054,East,Corporate,Second Class,Furniture,Tables,,7,0.3,5.04
+2023-04-28 00:18:44.324324,Central,Consumer,Standard Class,Furniture,Chairs,327.42,7,0.4,20.51
+2023-04-29 11:23:14.594594,South,Home Office,Second Class,Furniture,Chairs,146.23,6,0.2,2.78
+2023-04-30 22:27:44.864864,East,Consumer,Second Class,Furniture,Bookcases,,6,0.4,-100.01
+2023-05-02 09:32:15.135135,South,Corporate,Second Class,Furniture,Chairs,346.45,2,0.2,-6.59
+2023-05-03 20:36:45.405405,East,Corporate,Standard Class,Office Supplies,Paper,63.07,10,0.4,-9.58
+2023-05-05 07:41:15.675675,East,Consumer,Second Class,Office Supplies,Pens,247.84,6,0.3,-23.05
+2023-05-06 18:45:45.945945,Central,Home Office,Same Day,Office Supplies,Pens,152.96,4,0.1,22.27
+2023-05-08 05:50:16.216216,South,Consumer,Same Day,Office Supplies,Pens,225.24,12,0.3,
+2023-05-09 16:54:46.486486,East,Consumer,Same Day,Furniture,Chairs,344.92,3,0.5,-49.17
+2023-05-11 03:59:16.756756,West,Consumer,Standard Class,Technology,Phones,420.23,13,0.0,145.76
+2023-05-12 15:03:47.027027,West,Home Office,Standard Class,Furniture,Bookcases,474.05,11,0.1,92.58
+2023-05-14 02:08:17.297297,West,Corporate,Same Day,Technology,Computers,83.25,13,0.3,12.88
+2023-05-15 13:12:47.567567,Central,Home Office,Same Day,Office Supplies,Pens,17.9,2,0.5,-3.71
+2023-05-17 00:17:17.837837,East,Corporate,Same Day,Furniture,Tables,346.09,1,0.0,56.98
+2023-05-18 11:21:48.108108,Central,Corporate,First Class,Office Supplies,Binders,38.11,11,0.5,
+2023-05-19 22:26:18.378378,South,Corporate,Same Day,Furniture,Bookcases,104.55,11,0.2,-4.91
+2023-05-21 09:30:48.648648,South,Home Office,Second Class,Office Supplies,Pens,10.96,5,0.2,-0.75
+2023-05-22 20:35:18.918918,East,Consumer,First Class,Technology,Accessories,296.17,2,0.4,3.3
+2023-05-24 07:39:49.189189,West,Consumer,First Class,Technology,Phones,55.72,2,0.1,10.17
+2023-05-25 18:44:19.459459,East,Consumer,Standard Class,Technology,Computers,276.26,7,0.2,14.71
+2023-05-27 05:48:49.729729,East,Consumer,Second Class,Furniture,Chairs,1209.16,8,0.5,-124.67
+2023-05-28 16:53:20.000000,East,Consumer,Standard Class,Technology,Phones,28.86,13,0.1,3.31
+2023-05-30 03:57:50.270270,Central,Home Office,Standard Class,Furniture,Bookcases,30.05,10,0.2,-1.89
+2023-05-31 15:02:20.540540,South,Home Office,Second Class,Technology,Phones,,8,0.4,-10.19
+2023-06-02 02:06:50.810810,East,Home Office,Standard Class,Technology,Accessories,513.2,14,0.3,-39.45
+2023-06-03 13:11:21.081081,East,Home Office,Second Class,Furniture,Tables,70.69,4,0.4,-11.34
+2023-06-05 00:15:51.351351,East,Home Office,Second Class,Furniture,Bookcases,121.72,14,0.0,41.02
+2023-06-06 11:20:21.621621,Central,Home Office,Standard Class,Technology,Phones,27.74,1,0.2,3.05
+2023-06-07 22:24:51.891891,Central,Home Office,Same Day,Furniture,Chairs,370.09,11,0.0,99.41
+2023-06-09 09:29:22.162162,Central,Consumer,Standard Class,Technology,Accessories,141.19,7,0.0,20.42
+2023-06-10 20:33:52.432432,East,Corporate,First Class,Furniture,Bookcases,366.0,1,0.5,-48.33
+2023-06-12 07:38:22.702702,West,Home Office,Standard Class,Office Supplies,Paper,594.83,11,0.1,36.33
+2023-06-13 18:42:52.972972,West,Corporate,Second Class,Office Supplies,Binders,76.24,4,0.5,-16.84
+2023-06-15 05:47:23.243243,West,Home Office,First Class,Office Supplies,Binders,421.78,8,0.2,-6.87
+2023-06-16 16:51:53.513513,South,Home Office,Second Class,Office Supplies,Pens,25.23,2,0.0,7.3
+2023-06-18 03:56:23.783783,East,Consumer,Same Day,Office Supplies,Binders,582.78,6,0.3,42.7
+2023-06-19 15:00:54.054054,West,Corporate,Same Day,Technology,Phones,273.01,13,0.0,
+2023-06-21 02:05:24.324324,West,Consumer,First Class,Office Supplies,Pens,528.32,6,0.3,6.62
+2023-06-22 13:09:54.594594,West,Consumer,Same Day,Office Supplies,Paper,10.05,12,0.5,0.27
+2023-06-24 00:14:24.864864,East,Corporate,Same Day,Office Supplies,Paper,56.31,9,0.5,-12.85
+2023-06-25 11:18:55.135135,West,Consumer,Standard Class,Office Supplies,Binders,133.48,5,0.1,9.9
+2023-06-26 22:23:25.405405,West,Home Office,Standard Class,Furniture,Bookcases,129.31,10,0.0,20.04
+2023-06-28 09:27:55.675675,East,Home Office,Same Day,Technology,Accessories,74.28,4,0.4,3.32
+2023-06-29 20:32:25.945945,South,Home Office,Same Day,Office Supplies,Binders,130.16,5,0.5,6.22
+2023-07-01 07:36:56.216216,Central,Home Office,Standard Class,Office Supplies,Paper,,12,0.5,-7.91
+2023-07-02 18:41:26.486486,West,Home Office,Same Day,Office Supplies,Paper,143.08,12,0.1,
+2023-07-04 05:45:56.756756,Central,Consumer,Same Day,Technology,Phones,,10,0.3,49.5
+2023-07-05 16:50:27.027027,South,Consumer,Second Class,Furniture,Chairs,173.03,11,0.1,9.93
+2023-07-07 03:54:57.297297,South,Home Office,Same Day,Technology,Accessories,14.54,5,0.0,2.47
+2023-07-08 14:59:27.567567,West,Home Office,First Class,Furniture,Bookcases,146.81,8,0.2,7.77
+2023-07-10 02:03:57.837837,East,Consumer,Second Class,Office Supplies,Binders,16.89,10,0.2,3.77
+2023-07-11 13:08:28.108108,South,Corporate,First Class,Office Supplies,Binders,857.14,12,0.3,-64.91
+2023-07-13 00:12:58.378378,Central,Consumer,Same Day,Technology,Accessories,44.08,8,0.5,
+2023-07-14 11:17:28.648648,Central,Consumer,Standard Class,Technology,Accessories,,2,0.3,-9.44
+2023-07-15 22:21:58.918918,Central,Consumer,Second Class,Furniture,Chairs,910.92,7,0.5,-28.0
+2023-07-17 09:26:29.189189,Central,Consumer,Standard Class,Furniture,Chairs,447.23,8,0.5,-55.46
+2023-07-18 20:30:59.459459,South,Consumer,Second Class,Technology,Computers,,11,0.2,32.13
+2023-07-20 07:35:29.729729,West,Corporate,Standard Class,Furniture,Bookcases,467.3,6,0.3,55.97
+2023-07-21 18:40:00.000000,West,Home Office,Second Class,Technology,Computers,1011.57,5,0.1,233.93
+2023-07-23 05:44:30.270270,Central,Home Office,Second Class,Furniture,Bookcases,252.78,11,0.5,2.51
+2023-07-24 16:49:00.540540,West,Corporate,First Class,Technology,Phones,214.78,9,0.4,-36.97
+2023-07-26 03:53:30.810810,Central,Home Office,Standard Class,Technology,Computers,257.38,13,0.4,
+2023-07-27 14:58:01.081081,Central,Home Office,First Class,Technology,Computers,200.18,3,0.1,6.41
+2023-07-29 02:02:31.351351,East,Home Office,First Class,Furniture,Bookcases,262.03,12,0.4,-17.1
+2023-07-30 13:07:01.621621,South,Corporate,Standard Class,Furniture,Chairs,159.39,13,0.0,34.2
+2023-08-01 00:11:31.891891,South,Corporate,Second Class,Furniture,Tables,71.62,13,0.5,-9.25
+2023-08-02 11:16:02.162162,Central,Home Office,First Class,Technology,Phones,42.03,10,0.1,6.13
+2023-08-03 22:20:32.432432,South,Home Office,Standard Class,Furniture,Tables,27.7,4,0.3,4.68
+2023-08-05 09:25:02.702702,West,Home Office,Second Class,Furniture,Chairs,86.4,9,0.5,-18.1
+2023-08-06 20:29:32.972972,Central,Consumer,First Class,Technology,Accessories,21.81,6,0.1,4.2
+2023-08-08 07:34:03.243243,East,Consumer,First Class,Office Supplies,Binders,219.35,8,0.2,10.7
+2023-08-09 18:38:33.513513,West,Consumer,First Class,Technology,Computers,93.46,7,0.3,-8.42
+2023-08-11 05:43:03.783783,East,Corporate,Second Class,Furniture,Chairs,445.08,11,0.2,-9.96
+2023-08-12 16:47:34.054054,East,Home Office,First Class,Technology,Phones,29.29,2,0.5,1.02
+2023-08-14 03:52:04.324324,South,Corporate,Second Class,Office Supplies,Binders,74.16,3,0.3,9.93
+2023-08-15 14:56:34.594594,South,Corporate,Same Day,Technology,Accessories,337.56,1,0.4,27.72
+2023-08-17 02:01:04.864864,Central,Corporate,First Class,Furniture,Chairs,238.33,9,0.1,68.51
+2023-08-18 13:05:35.135135,South,Home Office,Same Day,Office Supplies,Paper,,13,0.5,-5.0
+2023-08-20 00:10:05.405405,East,Consumer,Standard Class,Furniture,Chairs,534.38,7,0.0,83.7
+2023-08-21 11:14:35.675675,East,Home Office,First Class,Office Supplies,Binders,534.43,1,0.3,37.82
+2023-08-22 22:19:05.945945,West,Home Office,Standard Class,Office Supplies,Binders,110.27,3,0.3,1.67
+2023-08-24 09:23:36.216216,East,Corporate,Standard Class,Technology,Computers,114.03,4,0.5,-14.19
+2023-08-25 20:28:06.486486,Central,Corporate,Standard Class,Technology,Computers,1138.11,4,0.5,-162.36
+2023-08-27 07:32:36.756756,Central,Corporate,Same Day,Furniture,Bookcases,255.99,5,0.2,27.68
+2023-08-28 18:37:07.027027,South,Consumer,Second Class,Technology,Accessories,199.46,14,0.4,-3.46
+2023-08-30 05:41:37.297297,South,Consumer,Same Day,Technology,Computers,465.27,3,0.2,-10.03
+2023-08-31 16:46:07.567567,South,Consumer,Same Day,Office Supplies,Pens,93.97,3,0.2,6.72
+2023-09-02 03:50:37.837837,Central,Home Office,Standard Class,Technology,Phones,150.17,1,0.4,-3.6
+2023-09-03 14:55:08.108108,East,Corporate,First Class,Office Supplies,Paper,87.92,7,0.0,19.44
+2023-09-05 01:59:38.378378,South,Home Office,Second Class,Office Supplies,Paper,399.16,11,0.2,-2.78
+2023-09-06 13:04:08.648648,West,Consumer,Standard Class,Office Supplies,Binders,222.95,10,0.2,34.04
+2023-09-08 00:08:38.918918,South,Corporate,Second Class,Furniture,Chairs,278.84,14,0.3,-34.14
+2023-09-09 11:13:09.189189,Central,Consumer,Same Day,Furniture,Bookcases,82.69,1,0.4,-6.91
+2023-09-10 22:17:39.459459,South,Corporate,Second Class,Furniture,Tables,72.19,2,0.1,16.18
+2023-09-12 09:22:09.729729,East,Corporate,Second Class,Office Supplies,Pens,177.54,13,0.0,38.91
+2023-09-13 20:26:40.000000,South,Home Office,First Class,Furniture,Chairs,344.44,4,0.0,44.21
+2023-09-15 07:31:10.270270,Central,Home Office,Standard Class,Furniture,Chairs,196.24,13,0.4,3.63
+2023-09-16 18:35:40.540540,Central,Consumer,Second Class,Technology,Phones,18.3,4,0.5,-1.46
+2023-09-18 05:40:10.810810,West,Home Office,Second Class,Furniture,Tables,517.29,5,0.5,-5.76
+2023-09-19 16:44:41.081081,Central,Home Office,Same Day,Furniture,Bookcases,26.72,11,0.3,2.42
+2023-09-21 03:49:11.351351,West,Home Office,Same Day,Office Supplies,Binders,789.9,2,0.3,41.89
+2023-09-22 14:53:41.621621,East,Corporate,Second Class,Office Supplies,Binders,16.37,4,0.4,-0.71
+2023-09-24 01:58:11.891891,Central,Home Office,Standard Class,Office Supplies,Paper,306.41,1,0.3,-27.59
+2023-09-25 13:02:42.162162,South,Consumer,Second Class,Office Supplies,Binders,31.45,2,0.0,
+2023-09-27 00:07:12.432432,East,Corporate,Second Class,Office Supplies,Binders,613.87,1,0.0,
+2023-09-28 11:11:42.702702,South,Corporate,First Class,Office Supplies,Paper,166.11,10,0.1,28.2
+2023-09-29 22:16:12.972972,South,Home Office,Standard Class,Furniture,Tables,46.99,10,0.5,-4.51
+2023-10-01 09:20:43.243243,South,Corporate,First Class,Office Supplies,Paper,114.19,13,0.4,-11.82
+2023-10-02 20:25:13.513513,East,Consumer,Standard Class,Office Supplies,Paper,55.03,4,0.2,-3.75
+2023-10-04 07:29:43.783783,East,Consumer,Standard Class,Technology,Phones,56.76,4,0.5,-5.74
+2023-10-05 18:34:14.054054,Central,Corporate,Standard Class,Furniture,Chairs,5622.502871094883,7,0.2,11.76
+2023-10-07 05:38:44.324324,South,Home Office,First Class,Furniture,Tables,157.31,10,0.1,33.1
+2023-10-08 16:43:14.594594,West,Home Office,First Class,Furniture,Chairs,398.74,11,0.1,-1.12
+2023-10-10 03:47:44.864864,Central,Corporate,First Class,Office Supplies,Paper,265.14,11,0.3,12.05
+2023-10-11 14:52:15.135135,East,Consumer,Same Day,Office Supplies,Binders,292.08,9,0.1,79.57
+2023-10-13 01:56:45.405405,West,Corporate,First Class,Office Supplies,Binders,45.3,9,0.1,1.92
+2023-10-14 13:01:15.675675,East,Home Office,Same Day,Technology,Accessories,76.7,5,0.2,5.48
+2023-10-16 00:05:45.945945,West,Home Office,Same Day,Office Supplies,Binders,,10,0.3,-40.65
+2023-10-17 11:10:16.216216,Central,Corporate,Same Day,Technology,Computers,893.11,1,0.1,158.71
+2023-10-18 22:14:46.486486,West,Consumer,Second Class,Furniture,Bookcases,86.18,1,0.5,-7.31
+2023-10-20 09:19:16.756756,Central,Corporate,Second Class,Office Supplies,Binders,89.22,6,0.1,10.01
+2023-10-21 20:23:47.027027,East,Consumer,Second Class,Technology,Computers,170.09,2,0.3,
+2023-10-23 07:28:17.297297,West,Consumer,Same Day,Technology,Computers,1041.31,8,0.4,82.23
+2023-10-24 18:32:47.567567,South,Corporate,Same Day,Office Supplies,Binders,88.32,13,0.3,-6.28
+2023-10-26 05:37:17.837837,South,Corporate,Standard Class,Furniture,Bookcases,140.63,9,0.2,-8.89
+2023-10-27 16:41:48.108108,East,Consumer,Same Day,Furniture,Tables,565.21,13,0.4,38.72
+2023-10-29 03:46:18.378378,West,Consumer,Second Class,Furniture,Tables,10.73,4,0.5,-0.82
+2023-10-30 14:50:48.648648,South,Consumer,Same Day,Technology,Accessories,20.14,5,0.0,6.39
+2023-11-01 01:55:18.918918,Central,Consumer,Same Day,Technology,Phones,241.63,11,0.3,11.86
+2023-11-02 12:59:49.189189,West,Home Office,Standard Class,Technology,Accessories,604.81,8,0.2,104.66
+2023-11-04 00:04:19.459459,West,Corporate,Same Day,Technology,Phones,78.23,3,0.5,
+2023-11-05 11:08:49.729729,South,Consumer,First Class,Furniture,Bookcases,168.55,5,0.4,5.89
+2023-11-06 22:13:20.000000,Central,Corporate,Standard Class,Office Supplies,Pens,159.67,3,0.5,3.82
+2023-11-08 09:17:50.270270,Central,Consumer,Same Day,Technology,Computers,170.13,12,0.3,7.08
+2023-11-09 20:22:20.540540,Central,Corporate,Same Day,Technology,Phones,253.56,10,0.1,11.22
+2023-11-11 07:26:50.810810,West,Corporate,Standard Class,Furniture,Tables,168.6,3,0.3,-8.32
+2023-11-12 18:31:21.081081,East,Consumer,Same Day,Office Supplies,Paper,158.31,3,0.0,17.35
+2023-11-14 05:35:51.351351,West,Consumer,Second Class,Office Supplies,Pens,6897.415084422642,13,0.3,-9.55
+2023-11-15 16:40:21.621621,West,Corporate,First Class,Furniture,Bookcases,233.43,12,0.4,-22.89
+2023-11-17 03:44:51.891891,South,Corporate,First Class,Furniture,Chairs,202.51,7,0.4,-4.75
+2023-11-18 14:49:22.162162,East,Corporate,Second Class,Office Supplies,Binders,491.27,7,0.3,22.79
+2023-11-20 01:53:52.432432,Central,Home Office,Same Day,Technology,Computers,22.69,7,0.4,-1.41
+2023-11-21 12:58:22.702702,South,Consumer,Same Day,Office Supplies,Binders,457.92,10,0.1,79.96
+2023-11-23 00:02:52.972972,West,Home Office,First Class,Furniture,Tables,474.35,8,0.5,-106.98
+2023-11-24 11:07:23.243243,East,Home Office,Same Day,Technology,Accessories,93.84,5,0.3,-9.73
+2023-11-25 22:11:53.513513,Central,Consumer,First Class,Technology,Accessories,165.37,5,0.1,6.87
+2023-11-27 09:16:23.783783,Central,Consumer,First Class,Furniture,Bookcases,154.3,14,0.5,-14.59
+2023-11-28 20:20:54.054054,West,Home Office,Second Class,Furniture,Bookcases,71.64,4,0.5,-13.31
+2023-11-30 07:25:24.324324,Central,Consumer,First Class,Furniture,Bookcases,136.38,7,0.1,10.23
+2023-12-01 18:29:54.594594,Central,Corporate,Same Day,Office Supplies,Binders,21.35,10,0.2,1.07
+2023-12-03 05:34:24.864864,East,Corporate,Same Day,Office Supplies,Binders,91.37,4,0.3,10.38
+2023-12-04 16:38:55.135135,South,Home Office,Standard Class,Technology,Computers,434.13,2,0.5,-106.73
+2023-12-06 03:43:25.405405,East,Home Office,Same Day,Furniture,Tables,93.72,4,0.5,-5.17
+2023-12-07 14:47:55.675675,South,Consumer,Standard Class,Technology,Accessories,436.22,13,0.4,4.65
+2023-12-09 01:52:25.945945,South,Consumer,First Class,Technology,Accessories,199.61,13,0.5,-2.08
+2023-12-10 12:56:56.216216,South,Home Office,Same Day,Technology,Accessories,539.78,8,0.1,145.65
+2023-12-12 00:01:26.486486,Central,Home Office,Second Class,Technology,Phones,223.79,9,0.5,-54.6
+2023-12-13 11:05:56.756756,East,Corporate,Second Class,Furniture,Tables,17.53,3,0.2,-0.42
+2023-12-14 22:10:27.027027,Central,Corporate,Second Class,Technology,Computers,291.31,7,0.3,39.57
+2023-12-16 09:14:57.297297,West,Consumer,First Class,Furniture,Bookcases,21.47,14,0.3,
+2023-12-17 20:19:27.567567,East,Corporate,First Class,Furniture,Tables,159.73,12,0.5,-12.88
+2023-12-19 07:23:57.837837,South,Consumer,Standard Class,Office Supplies,Binders,672.78,14,0.0,167.46
+2023-12-20 18:28:28.108108,Central,Consumer,Second Class,Furniture,Bookcases,55.14,9,0.0,13.99
+2023-12-22 05:32:58.378378,Central,Consumer,Standard Class,Office Supplies,Paper,133.52,11,0.1,35.99
+2023-12-23 16:37:28.648648,East,Corporate,Standard Class,Furniture,Chairs,337.2,4,0.0,117.71
+2023-12-25 03:41:58.918918,East,Home Office,Same Day,Furniture,Chairs,544.82,10,0.1,112.26
+2023-12-26 14:46:29.189189,South,Home Office,Same Day,Furniture,Bookcases,287.88,3,0.4,-29.89
+2023-12-28 01:50:59.459459,South,Corporate,Second Class,Office Supplies,Binders,84.66,5,0.1,21.5
+2023-12-29 12:55:29.729729,West,Home Office,First Class,Office Supplies,Pens,290.68,1,0.0,
+2023-12-31 00:00:00.000000,South,Consumer,Same Day,Technology,Accessories,98.0,3,0.5,-17.71
